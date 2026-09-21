@@ -13,8 +13,8 @@
       "Actorie",
       "Regie de teatru"
     ],
-    "matchPercentage": 60,
-    "reason": "Post de actor în teatru, potrivit cu competențele de Actorie. Totuși, locația (Târgu Jiu) este departe de Cluj, iar jobul specifică \"Valabil pentru cetățenii UE: Nu\", ceea ce poate fi o restricție."
+    "matchPercentage": 90,
+    "reason": "Rol de actor de teatru, potrivit cu formarea ta in actorie si prezenta scenica."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374841",
@@ -28,10 +28,10 @@
     "status": "scraped",
     "tags": [
       "Actorie",
-      "Educație prin teatru"
+      "Regie de teatru"
     ],
-    "matchPercentage": 60,
-    "reason": "Identic cu jobul 1 - post de actor în teatru dramatic și de comedie. Competențe relevante dar restricție de cetățenie și locație îndepărtată."
+    "matchPercentage": 90,
+    "reason": "Rol de actor de teatru, potrivit cu formarea ta in actorie si prezenta scenica."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374858",
@@ -45,10 +45,10 @@
     "status": "scraped",
     "tags": [
       "Actorie",
-      "Teatrologie"
+      "Regie de teatru"
     ],
-    "matchPercentage": 60,
-    "reason": "Post de actor, aceeași companie. Potrivit pentru profilul de Actorie, dar cu aceleași limitări de locație și cetățenie."
+    "matchPercentage": 90,
+    "reason": "Rol de actor de teatru, potrivit cu formarea ta in actorie si prezenta scenica."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/actor-commercial-actor-brand-performance-artist/1981680",
@@ -62,10 +62,10 @@
     "status": "scraped",
     "tags": [
       "Actorie",
-      "Multimedia"
+      "Prezenta scenica"
     ],
-    "matchPercentage": 82,
-    "reason": "Caută actor/commercial talent prezentabil, expresiv, cu dictie bună și prezență scenică - exact competențele dobândite în facultate. Locația București este accesibilă."
+    "matchPercentage": 88,
+    "reason": "Actor comercial cu dictie si expresivitate, se potriveste cu competentele tale de actorie si prezenta scenica."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374910",
@@ -79,10 +79,10 @@
     "status": "scraped",
     "tags": [
       "Actorie",
-      "Dramaturgie"
+      "Regie de teatru"
     ],
-    "matchPercentage": 60,
-    "reason": "Post de actor în teatru. Competență directă de Actorie, dar restricții similare cu joburile 1-3."
+    "matchPercentage": 90,
+    "reason": "Rol de actor de teatru, potrivit cu formarea ta in actorie si prezenta scenica."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3320031",
@@ -95,11 +95,10 @@
     "date": "2026-09-02T12:36:48.746Z",
     "status": "scraped",
     "tags": [
-      "Actorie",
-      "Teatrologie"
+      "Actorie"
     ],
-    "matchPercentage": 60,
-    "reason": "Post de actor fără descriere detaliată. Potrivit ca domeniu, dar lipsa informațiilor și restricția de cetățenie sunt probleme."
+    "matchPercentage": 85,
+    "reason": "Post de actor intr-un teatru, aliniat cu studiile tale in arta actorului."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3320040",
@@ -112,11 +111,10 @@
     "date": "2026-09-02T12:36:48.746Z",
     "status": "scraped",
     "tags": [
-      "Actorie",
-      "Regie de teatru"
+      "Actorie"
     ],
-    "matchPercentage": 60,
-    "reason": "Post de actor fără descriere. Companie de teatru fantastic, ceea ce ar putea fi interesant din punct de vedere artistic."
+    "matchPercentage": 85,
+    "reason": "Post de actor intr-un teatru, aliniat cu studiile tale in arta actorului."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3334209",
@@ -129,11 +127,10 @@
     "date": "2026-09-02T12:36:48.746Z",
     "status": "scraped",
     "tags": [
-      "Actorie",
-      "Educație prin teatru"
+      "Actorie"
     ],
-    "matchPercentage": 60,
-    "reason": "Post de actor fără descriere. Aceeași companie, aceleași oportunități și limitări."
+    "matchPercentage": 85,
+    "reason": "Post de actor intr-un teatru, aliniat cu studiile tale in arta actorului."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3373451",
@@ -147,10 +144,10 @@
     "status": "scraped",
     "tags": [
       "Management cultural",
-      "Organizare festivaluri"
+      "Regie de teatru"
     ],
-    "matchPercentage": 78,
-    "reason": "Producător delegat pentru teatru - coordonarea producției spectacolului, legătura dintre management, regizor și echipă. Se potrivește cu Management cultural și Organizare festivaluri."
+    "matchPercentage": 88,
+    "reason": "Productie delegata pentru teatru, combina managementul cultural cu productia de spectacol."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/producator-audiovideo-regizor-tv-3",
@@ -164,10 +161,10 @@
     "status": "scraped",
     "tags": [
       "Regie de film",
-      "Producție audiovizuală"
+      "Productie audiovizuala"
     ],
-    "matchPercentage": 88,
-    "reason": "Producător audiovideo și regizor TV - corespunde direct cu competențele de Regie de film și televiziune și Producție audiovizuală. București, potrivit ca locație."
+    "matchPercentage": 92,
+    "reason": "Productie audiovideo si regie TV, direct acoperite de competentele tale de regie si productie."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/asistenta-manager",
@@ -180,28 +177,11 @@
     "date": "2026-09-05T12:01:53.424Z",
     "status": "scraped",
     "tags": [
-      "Management cultural",
-      "Organizare festivaluri"
+      "Organizare festivaluri",
+      "Management cultural"
     ],
-    "matchPercentage": 52,
-    "reason": "Asistent manager într-o firmă de evenimente. Se potrivește parțial cu Management cultural, dar este mai mult un rol administrativ decât creativ."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-operator-facturare-2",
-    "title": "Asistent Manager/ Operator facturare",
-    "company": "POWER HOUSE FILM &amp; TELEVISION SRL",
-    "location": [
-      "Bulevardul Aviatorilor, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:47.098Z",
-    "status": "scraped",
-    "tags": [
-      "Management cultural",
-      "Producție audiovizuală"
-    ],
-    "matchPercentage": 48,
-    "reason": "Rol administrativ (asistent manager + facturare) într-o companie de film/TV. Doar tangențial legat de competențele mele, mai mult un rol de birou."
+    "matchPercentage": 72,
+    "reason": "Asistenta manager in firma de organizare evenimente, potrivita cu organizarea de festivaluri si management cultural."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
@@ -215,10 +195,10 @@
     "status": "scraped",
     "tags": [
       "Multimedia",
-      "Management cultural"
+      "Filmologie"
     ],
-    "matchPercentage": 72,
-    "reason": "Specialist conținut și social media într-o companie de film. Se potrivește cu Multimedia și Management cultural. Astra Film este un festival de film documentar important."
+    "matchPercentage": 70,
+    "reason": "Content si social media in productie de film, valorifica multimedia si cunoasterea industriei de film."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/cautam-asistent-manager-3",
@@ -231,11 +211,11 @@
     "date": "2026-09-05T11:41:28.631Z",
     "status": "scraped",
     "tags": [
-      "Management cultural",
-      "Film documentar"
+      "Organizare festivaluri",
+      "Management cultural"
     ],
-    "matchPercentage": 55,
-    "reason": "Asistent manager la Astra Film Festival în Sibiu. Rol administrativ într-un context de film documentar, parțial relevant."
+    "matchPercentage": 82,
+    "reason": "Asistent manager la Astra Film Festival, ideal pentru organizarea de festivaluri si management cultural."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/event-marketing-coordinator-1",
@@ -251,8 +231,8 @@
       "Organizare festivaluri",
       "Management cultural"
     ],
-    "matchPercentage": 62,
-    "reason": "Coordonator marketing evenimente într-o companie de film. Se potrivește cu Organizare festivaluri și Management cultural, dar este mai mult marketing decât producție."
+    "matchPercentage": 65,
+    "reason": "Coordonare de marketing pentru evenimente, se leaga de organizarea de festivaluri si management cultural."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-4510",
@@ -266,44 +246,10 @@
     "status": "scraped",
     "tags": [
       "Management cultural",
-      "Producție audiovizuală"
-    ],
-    "matchPercentage": 55,
-    "reason": "Asistent manager într-o companie de film. Rol administrativ în industria cinematografică, parțial relevant pentru Management cultural."
-  },
-  {
-    "url": "https://www.hogarth.com//careers/job/ai-post-production-editor-6007132004",
-    "title": "AI Post-Production Editor",
-    "company": "HOGARTH WORLDWIDE SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:15:16.496Z",
-    "status": "scraped",
-    "tags": [
-      "Postproducție",
-      "Montaj video"
+      "Productie audiovizuala"
     ],
     "matchPercentage": 70,
-    "reason": "Editare postproducție cu AI într-o agenție de producție publicitară/audiovizuală; se suprapune cu competențele de postproducție și montaj video"
-  },
-  {
-    "url": "https://www.hogarth.com//careers/job/video-production-intern-6098812004",
-    "title": "Video Production Intern",
-    "company": "HOGARTH WORLDWIDE SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:09:45.176Z",
-    "status": "scraped",
-    "tags": [
-      "Producție audiovizuală",
-      "Regie de film"
-    ],
-    "matchPercentage": 85,
-    "reason": "Internship în producție video la o agenție globală de marketing; potrivire directă cu regia de film, imaginea și producția audiovizuală"
+    "reason": "Asistent manager intr-o companie de film, potrivit cu managementul cultural si productia audiovizuala."
   },
   {
     "url": "https://jobs.smartrecruiters.com/Gameloft/744000138295106",
@@ -313,14 +259,48 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-12T12:05:44.719Z",
+    "date": "2026-09-20T12:59:14.685Z",
     "status": "scraped",
     "tags": [
       "Montaj video",
-      "Multimedia"
+      "Postproducție"
     ],
-    "matchPercentage": 75,
-    "reason": "Realizare conținut video/trailere pentru jocuri; potrivire cu montajul video, multimedia și arte digitale interactive"
+    "matchPercentage": 85,
+    "reason": "Creare de trailere și conținut video pentru platforme de jocuri; potrivit pentru competențele tale de imagine și montaj."
+  },
+  {
+    "url": "https://www.hogarth.com//careers/job/video-production-intern-6098812004",
+    "title": "Video Production Intern",
+    "company": "HOGARTH WORLDWIDE SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:47.451Z",
+    "status": "scraped",
+    "tags": [
+      "Producție audiovizuală",
+      "Montaj video"
+    ],
+    "matchPercentage": 92,
+    "reason": "Internship chiar în producție video — ideal pentru dezvoltarea în producție audiovizuală."
+  },
+  {
+    "url": "https://www.hogarth.com//careers/job/ai-post-production-editor-6007132004",
+    "title": "AI Post-Production Editor",
+    "company": "HOGARTH WORLDWIDE SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:52:31.652Z",
+    "status": "scraped",
+    "tags": [
+      "Postproducție",
+      "Montaj video"
+    ],
+    "matchPercentage": 88,
+    "reason": "Postproducție cu instrumente AI — aliniat perfect cu montaj și postproducție."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-sunet-sunetist-2",
@@ -334,44 +314,10 @@
     "status": "scraped",
     "tags": [
       "Design de sunet",
-      "Producție audiovizuală"
+      "Coloană sonoră"
     ],
-    "matchPercentage": 82,
-    "reason": "Tehnician sunet în domeniul media/producție audiovizuală — se suprapune direct cu competențele de design de sunet și producție audiovizuală."
-  },
-  {
-    "url": "https://www.hogarth.com//careers/job/business-analyst-solutions-design-6148690004",
-    "title": "Business Analyst (Solutions Design)",
-    "company": "HOGARTH WORLDWIDE SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:13:11.962Z",
-    "status": "scraped",
-    "tags": [
-      "Management cultural",
-      "Multimedia"
-    ],
-    "matchPercentage": 40,
-    "reason": "Hogarth (WPP) activează în producție publicitară/audiovizuală, dar rolul este de business analyst, nu creativ. Potențial partial."
-  },
-  {
-    "url": "https://jobs.ashbyhq.com/ruby-labs/95b659bf-b1af-43b8-99f0-5041324dae30",
-    "title": "Creative Performance Design Lead",
-    "company": "ABLE ELECTRIC SYSTEMS SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:12:45.674Z",
-    "status": "scraped",
-    "tags": [
-      "Multimedia",
-      "Montaj video"
-    ],
-    "matchPercentage": 48,
-    "reason": "Rol de design creativ pentru ad-uri (motion, static, video) într-o companie D2C. Se folosesc competențe de multimedia, montaj și design, dar e orientat spre advertising/performance."
+    "matchPercentage": 80,
+    "reason": "Poziție de sunet în media TV – se potrivește cu competențele de design de sunet și realizare coloană sonoră."
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
@@ -385,27 +331,10 @@
     "status": "scraped",
     "tags": [
       "Multimedia",
-      "Media și producție audiovizuală"
+      "Producție audiovizuală"
     ],
-    "matchPercentage": 62,
-    "reason": "Internship în jurnalism multimedia — implică elemente audiovizuale, conținut media, storytelling. Potențial de tranziție din zona de film/media."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/senior-graphic-designer-multimedia-designer/99819",
-    "title": "Senior Graphic Designer – Multimedia Designer",
-    "company": "YARDI SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:49:20.158Z",
-    "status": "scraped",
-    "tags": [
-      "Multimedia",
-      "Montaj video"
-    ],
-    "matchPercentage": 52,
-    "reason": "Design multimedia, motion graphics, video pentru campanii digitale. Se suprapune cu competențe de multimedia și montaj, dar în context corporate de software."
+    "matchPercentage": 90,
+    "reason": "Internship de jurnalism multimedia – se potrivește cu competențele de multimedia, producție audiovizuală și film documentar."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/swiss-french-multimedia-content-reviewer-music-marketing",
@@ -419,10 +348,10 @@
     "status": "scraped",
     "tags": [
       "Multimedia",
-      "Producție audiovizuală"
+      "Media audiovizuală"
     ],
     "matchPercentage": 35,
-    "reason": "Review conținut multimedia și marketing muzical — posibilă legătură cu multimedia și producție audiovizuală, dar necesită franceză/germană și experiență de marketing, deci potrivire slabă."
+    "reason": "Evaluare de conținut multimedia legat de muzică; se potrivesc parțial competențele multimedia și media audiovizuală."
   },
   {
     "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
@@ -436,27 +365,10 @@
     "status": "scraped",
     "tags": [
       "Producție audiovizuală",
-      "Montaj video"
+      "Regie film/TV"
     ],
-    "matchPercentage": 70,
-    "reason": "Producție TV este direct în sfera media și producție audiovizuală. Compotențele de regie film/TV, imagine, montaj și producție audiovizuală sunt foarte relevante."
-  },
-  {
-    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/coordonator-project-management",
-    "title": "Coordonator Project Management",
-    "company": "PPC ENERGIE S.A.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:14:49.549Z",
-    "status": "scraped",
-    "tags": [
-      "Management cultural",
-      "Organizare festivaluri"
-    ],
-    "matchPercentage": 25,
-    "reason": "Coordonare de proiecte într-o companie energetică — managementul de proiect ar putea folosi competențele de management cultural, dar domeniul (energie) este foarte îndepărtat."
+    "matchPercentage": 80,
+    "reason": "Producție audiovizuală și televiziune, direct pe competențele tale de regie și producție audiovizuală."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
@@ -472,41 +384,107 @@
       "Educație prin teatru",
       "Management cultural"
     ],
-    "matchPercentage": 75,
-    "reason": "Rol de formator la centru cultural, se potrivește cu educația prin teatru și formarea artistică"
+    "matchPercentage": 65,
+    "reason": "Formare practică într-un centru cultural; se potrivește cu educația prin teatru și management cultural."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-polish-english-m0vk72",
-    "title": "Interpreters / Cultural Mediators -Polish &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Specialist-comunicare-extern--F-M-_JOBREQ_50275203",
+    "title": "Internship Specialist comunicare externă (F/M)",
+    "company": "RENAULT SRL",
     "location": [
-      "Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-03T12:43:16.487Z",
+    "date": "2026-09-20T12:57:07.282Z",
     "status": "scraped",
     "tags": [
-      "Management cultural",
-      "Multimedia"
+      "Multimedia",
+      "Producție audiovizuală"
     ],
-    "matchPercentage": 45,
-    "reason": "Mediator cultural, se potrivește parțial cu managementul cultural dar necesită limba polonă"
+    "matchPercentage": 35,
+    "reason": "Comunicarea externă implică crearea de conținut media și campanii, unde competențele audiovizuale/multimedia sunt relevante."
   },
   {
-    "url": "https://multijobs.ro/job/manager-de-programe-digitale/5388",
-    "title": "Manager de Programe Digitale",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269075/Randstad-Romania/Job-de-vară:-Angajăm-Festival-crew-în-Costinești!",
+    "title": "Job de vară: Angajăm Festival crew în Costinești!",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:48:34.862Z",
+    "status": "scraped",
+    "tags": [
+      "Organizare festivaluri"
+    ],
+    "matchPercentage": 55,
+    "reason": "Muncă în industria de entertainment la festival, relevantă pentru organizarea evenimentelor"
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/personal-sezonier-entertainment-festival-costinesti",
+    "title": "personal sezonier entertainment – festival costinesti",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Costinesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:41:24.311Z",
+    "status": "scraped",
+    "tags": [
+      "Arte digitale interactive",
+      "Organizare festivaluri"
+    ],
+    "matchPercentage": 60,
+    "reason": "Crew într-un proiect de entertainment cu activări interactive, zona de spectacol"
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/festival-crew-costinesti_costinesti_5306/",
+    "title": "Festival Crew. Costinești",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Costinesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-04T12:45:14.164Z",
+    "status": "scraped",
+    "tags": [
+      "Organizare festivaluri"
+    ],
+    "matchPercentage": 50,
+    "reason": "Rol de festival/entertainment, apropiat de organizarea de evenimente"
+  },
+  {
+    "url": "https://cariere.raiffeisen.ro/company/raiffeisen-bank/jobs/copywriter-owned-media-area",
+    "title": "Copywriter Owned Media Area",
+    "company": "RAIFFEISEN BANK SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:01:07.253Z",
+    "status": "scraped",
+    "tags": [
+      "Scriere de scenariu",
+      "Dramaturgie"
+    ],
+    "matchPercentage": 45,
+    "reason": "Scriere creativă de texte, utilizabile prin formarea în dramaturgie/scenaristică"
+  },
+  {
+    "url": "https://www.artvertising.com.ro/cariere/social-media-manager",
+    "title": "Social Media Manager",
+    "company": "ARTVERTISING SRL",
     "location": [
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-05T11:59:38.447Z",
+    "date": "2026-09-20T12:57:13.046Z",
     "status": "scraped",
     "tags": [
-      "Management cultural",
-      "Multimedia"
+      "Multimedia",
+      "Montaj video"
     ],
-    "matchPercentage": 55,
-    "reason": "Management de programe digitale, se potrivește parțial cu multimedia și management cultural"
+    "matchPercentage": 65,
+    "reason": "Creare de conținut video și foto, aproape de skills de producție media"
   }
 ]
