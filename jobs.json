@@ -1,71 +1,20 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271987/Aleph-News/Editor-imagine-TV-Junior",
-    "title": "Editor imagine TV Junior",
-    "company": "ALEPH MEDIA S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-part-time",
+    "title": "Video Editor/Part-time",
+    "company": "CREATIVEEDU S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:00:11.741Z",
+    "date": "2026-10-01T15:27:48.513Z",
     "status": "scraped",
     "tags": [
       "editare video",
-      "postproductie"
+      "postproducție"
     ],
-    "matchPercentage": 93,
-    "reason": "Poziție junior de editare imagine la un canal TV, cu editare pentru formate 16:9 și 9:16 — potrivire directă cu tehnici de editare video și postproducție audiovisuală la nivel entry."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/productie-media",
-    "title": "Productie media",
-    "company": "VIVA LA VIDRA PRODUCTIONS S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:00:22.962Z",
-    "status": "scraped",
-    "tags": [
-      "producție audiovizuală",
-      "cinematografie"
-    ],
-    "matchPercentage": 90,
-    "reason": "Producție media în companie de producție, folosește direct competențe de cinematografie și producție audiovizuală."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3208681",
-    "title": "OPERATOR PRODUCTIE RTV",
-    "company": "SIAN IMAGE MEDIA SRL",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:59:10.395Z",
-    "status": "scraped",
-    "tags": [
-      "imagine de film",
-      "producție"
-    ],
-    "matchPercentage": 90,
-    "reason": "Operator producție RTV folosește direct competențe de imagine de film/televiziune și producție."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
-    "title": "MAESTRU DE SUNET",
-    "company": "TEATRUL DE DRAMA SI COMEDIE FANTASTIC SRL",
-    "location": [
-      "Municipiul targu jiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T14:51:05.216Z",
-    "status": "scraped",
-    "tags": [
-      "sunet",
-      "practici de scena"
-    ],
-    "matchPercentage": 87,
-    "reason": "Șef de sunet la un teatru de dramă și comedie, fără experiență cerută: potrivire directă de domeniu (teatru + sunet scenic) la nivel intrare."
+    "matchPercentage": 86,
+    "reason": "Video editor part-time cu editare, grafica, animatii si corectie de culoare, potrivire directa cu competentele de postproducție si tehnici de editare."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/producator-audiovideo-regizor-tv-3",
@@ -75,31 +24,65 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T14:41:15.482Z",
+    "date": "2026-10-01T15:09:36.398Z",
     "status": "scraped",
     "tags": [
-      "regie televiziune",
-      "producție audiovisuală"
+      "regie film",
+      "postproducție"
     ],
     "matchPercentage": 85,
-    "reason": "Producător audiovideo/regizor TV într-o firmă de producție de film potrivește direct formarea ta în imagine, sunet, montaj și regie."
+    "reason": "Producție audiovideo și regie TV folosesc direct competențele de regie film/TV, sunet, montaj și postproducție."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-videograf-reclame-meta-tiktok-1",
-    "title": "Video Editor &amp; Videograf — Reclame Meta &amp; TikTok",
-    "company": "THE BRICKS LOFTS S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/editor-video-la-distanta-youtube-documentaries",
+    "title": "Editor Video la Distanta (youtube documentaries)",
+    "company": "BIJUTERIA GABRIEL S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:55:10.342Z",
+    "date": "2026-10-01T15:23:23.196Z",
     "status": "scraped",
     "tags": [
       "editare video",
-      "productie multimedia"
+      "documentare"
     ],
-    "matchPercentage": 82,
-    "reason": "Video editing si filmare pentru reclame social media corespund direct competentelor de editare nonlineara, montaj si producție de continut, la nivel entry-level."
+    "matchPercentage": 85,
+    "reason": "Editare video pentru documentare YouTube, corespunde direct tehnicilor de editare nonlineara si realizare de documentare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
+    "title": "MAESTRU DE SUNET",
+    "company": "TEATRUL DE DRAMA SI COMEDIE FANTASTIC SRL",
+    "location": [
+      "Municipiul targu jiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:17:42.921Z",
+    "status": "scraped",
+    "tags": [
+      "sunet scenă",
+      "montaj audio"
+    ],
+    "matchPercentage": 84,
+    "reason": "Maestru de sunet la un teatru, cu zero experienta ceruta, corespunde direct competentelor de sunet si practici de scena."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/social-media-video-editor-content-creator",
+    "title": "Social Media - Video Editor / Content Creator",
+    "company": "IGNITE CREATIVE STUDIO S.R.L.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:20:35.517Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "continut digital"
+    ],
+    "matchPercentage": 84,
+    "reason": "Video editor si content creator pentru social media, la nivel entry si cu relevanta directa in editare si continut."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3400101",
@@ -109,14 +92,82 @@
       "Caracal, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:55:09.005Z",
+    "date": "2026-10-01T15:14:43.360Z",
     "status": "scraped",
     "tags": [
-      "sunet",
-      "postproductie"
+      "sunet scenă",
+      "montaj audio"
     ],
-    "matchPercentage": 79,
-    "reason": "Șef de sunet la o companie de producție muzicală, cu experiență zero cerută, deci nivel de intrare potrivit și aplică direct competența de sunet și tehnici audio."
+    "matchPercentage": 80,
+    "reason": "Maestru de sunet entry-level, cu studii superioare si fara cerinta de experienta, in acord cu competentele de sunet si tehnici de scena."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-44",
+    "title": "Content Creator",
+    "company": "MEDIA SRL",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:22.956Z",
+    "status": "scraped",
+    "tags": [
+      "producție multimedia",
+      "editare video"
+    ],
+    "matchPercentage": 80,
+    "reason": "Content creator la o agentie media, productie de continut video pentru digital, nivel entry-level potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-social-media-manager-1",
+    "title": "Content Creator &amp; Social Media Manager",
+    "company": "NEXT EVENT S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:27:03.586Z",
+    "status": "scraped",
+    "tags": [
+      "producție multimedia",
+      "documentare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Content creator si social media manager la un eveniment auto, realizare de materiale video si foto pentru evenimente, nivel potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-short-form-ads",
+    "title": "Video Editor (Short-Form &amp; Ads)",
+    "company": "COSROM COSMETICS SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:22:18.030Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "montaj"
+    ],
+    "matchPercentage": 76,
+    "reason": "Video editor pe short-form si ads foloseste tehnici de editare nonlineara si montaj, desi focusul e comercial."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/ajutor-atelier-de-arta-9",
+    "title": "Ajutor atelier de arta",
+    "company": "ACADEMIA DE HANDBAL MARIANA TÎRCĂ SRL-D",
+    "location": [
+      "Strada General Constantin Coanda 16, Bucuresti 030167, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:09:04.984Z",
+    "status": "scraped",
+    "tags": [
+      "practici de scena",
+      "arta vizuala"
+    ],
+    "matchPercentage": 72,
+    "reason": "Atelier de arta la o academia de handbal, rol de ajutor entry-level in lucrul cu materiale si practici de atelier, tangente dar fara accent creativ propriu."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
@@ -130,61 +181,61 @@
     "status": "scraped",
     "tags": [
       "media digitala",
-      "productie multimedia"
-    ],
-    "matchPercentage": 76,
-    "reason": "Producție de conținut și social media pentru o companie de producție film, deci aplică direct competențele de producție multimedia și conținut pentru media; nivelul este entry-level, deși e mai degrabă orientat marketing decât producție propriu-zisă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/data-editor-tv-streaming-german-english-ro-md",
-    "title": "Data Editor (TV &amp; Streaming) - German&amp;English (RO/MD)",
-    "company": "SIMPLY DELICIOUS BY ANNA S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-29T14:38:38.683Z",
-    "status": "scraped",
-    "tags": [
-      "postproductie",
-      "media digitala"
-    ],
-    "matchPercentage": 72,
-    "reason": "Data editor pentru TV și streaming înseamnă ingest, indexare și gestionare conținut broadcast, deci relevant pentru postproducție și media digitală, cu condiția limbilor germană și engleză."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3399041",
-    "title": "RESTAURATOR OPERE DE ARTA SI MONUMENTE ISTORICE (STUDII MEDII)",
-    "company": "AXP PICTURES S.R.L.",
-    "location": [
-      "Municipiul curtea de arges, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-29T14:50:57.537Z",
-    "status": "scraped",
-    "tags": [
-      "arta vizuală",
-      "analiză de imagine"
+      "producție multimedia"
     ],
     "matchPercentage": 70,
-    "reason": "Restaurare opere de artă se încadrează parțial în arta vizuală, cu nivel de intrare potrivit."
+    "reason": "Productie de continut pentru social media intr-o companie de productie film, relevant pentru media digitala, desi titlul de specialist cere o mica experienta."
   },
   {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.atvrom.ro/cariere#5",
+    "title": "Grafician foto/video",
+    "company": "ATVROM AGREMENT SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Pitești, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T14:52:27.078Z",
+    "date": "2026-10-01T15:22:03.886Z",
     "status": "scraped",
     "tags": [
-      "regie televiziune",
-      "producție audiovisuală"
+      "editare video",
+      "imagine"
     ],
     "matchPercentage": 68,
-    "reason": "Producător de știri TV intră în regie și producție audiovisuală, cu nivel compatibil, dar e un job de actualitate newsroom, nu creație artistică."
+    "reason": "Grafician foto/video intr-o agentie, cu varianta de internship; relevant partial pentru imagine si editare, dar accentul e pe marketing."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-4510",
+    "title": "Asistent manager",
+    "company": "RELOAD FILM SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:38.638Z",
+    "status": "scraped",
+    "tags": [
+      "producție audiovisuală",
+      "management"
+    ],
+    "matchPercentage": 66,
+    "reason": "Asistent manager într-un studio de film se apropie de coordonarea producției, dar rolul este predominant administrativ."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/asistenta-manager",
+    "title": "Asistenta manager",
+    "company": "DOX FILM SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:24:06.345Z",
+    "status": "scraped",
+    "tags": [
+      "evenimente culturale",
+      "management"
+    ],
+    "matchPercentage": 64,
+    "reason": "Organizare de evenimente cu intrare fără experiență, relevant parțial pentru producția și organizarea de evenimente culturale."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/cautam-asistent-manager-3",
@@ -197,27 +248,27 @@
     "date": "2026-09-30T14:51:37.347Z",
     "status": "scraped",
     "tags": [
-      "management cultural",
-      "evenimente culturale"
+      "evenimente culturale",
+      "management cultural"
     ],
-    "matchPercentage": 66,
-    "reason": "Rol de suport în cadrul unui festival de film (management cultural și organizare evenimente), nivel asistent acceptabil, dar sarcinile sunt predominant administrative și de coordonare logistică, nu creative."
+    "matchPercentage": 63,
+    "reason": "Asistent manager la un festival de film, relevant pentru organizarea evenimentelor culturale la nivel de intrare."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-4510",
-    "title": "Asistent manager",
-    "company": "RELOAD FILM SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/data-editor-tv-streaming-german-english-ro-md",
+    "title": "Data Editor (TV &amp; Streaming) - German&amp;English (RO/MD)",
+    "company": "SIMPLY DELICIOUS BY ANNA S.R.L.",
     "location": [
-      "Timișoara, Romania"
+      "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:42:04.325Z",
+    "date": "2026-09-29T14:38:38.683Z",
     "status": "scraped",
     "tags": [
-      "producție audiovisuală",
-      "organizare evenimente"
+      "postproducție",
+      "editare video"
     ],
-    "matchPercentage": 62,
-    "reason": "Asistent manager într-o firmă de film poate implica coordonare de producție, deci e o potrivire parțială de domeniu la nivel entry."
+    "matchPercentage": 61,
+    "reason": "Data editor pentru TV si streaming, tangenta la montaj si postproducție, dar cere limbi straine germana si engleza si e mai degraba localizare decat creatie."
   }
 ]
