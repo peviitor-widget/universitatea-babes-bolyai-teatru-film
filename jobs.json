@@ -1,71 +1,37 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/editor-video-la-distanta-youtube-documentaries",
-    "title": "Editor Video la Distanta (youtube documentaries)",
-    "company": "BIJUTERIA GABRIEL S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editare",
+    "title": "Video editare",
+    "company": "STRATEGIC SRL",
+    "location": [
+      "Piata Unirii, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:18:09.503Z",
+    "status": "scraped",
+    "tags": [
+      "Tehnici de editare video",
+      "Postproducție audiovisuală"
+    ],
+    "matchPercentage": 88,
+    "reason": "Editare și post-procesare video într-un mediu creativ, cerințe compatibile cu nivelul de junior cu portofoliu."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-part-time",
+    "title": "Video Editor/Part-time",
+    "company": "CREATIVEEDU S.R.L.",
     "location": [
       "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:06:11.916Z",
+    "date": "2026-10-07T15:26:21.729Z",
     "status": "scraped",
     "tags": [
-      "montaj",
-      "documentare"
+      "Tehnici de editare video",
+      "Postproducție audiovisuală"
     ],
-    "matchPercentage": 95,
-    "reason": "Editor video pentru documentare YouTube se potrivește direct cu montajul nonliniar și realizarea de documentare."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
-    "title": "Producator audiovideo / Regizor TV_Short Shot",
-    "company": "CONFIDENTIAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:05:56.919Z",
-    "status": "scraped",
-    "tags": [
-      "Regie film",
-      "Editare video"
-    ],
-    "matchPercentage": 93,
-    "reason": "Cere studii de regie film/teatru sau multimedia și descrie exact munca din platou, coordonarea echipei tehnice și montajul."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
-    "title": "Asistent Productie TV",
-    "company": "ANTENA 3 SA",
-    "location": [
-      "Buftea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:57:45.174Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "montaj"
-    ],
-    "matchPercentage": 90,
-    "reason": "Asistent de producție TV folosește direct competențe din producția audiovizuală și lucrul în echipă de producție."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271987/Aleph-News/Editor-imagine-TV-Junior",
-    "title": "Editor imagine TV Junior",
-    "company": "ALEPH MEDIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:55:55.256Z",
-    "status": "scraped",
-    "tags": [
-      "montaj",
-      "imagine"
-    ],
-    "matchPercentage": 90,
-    "reason": "Editor imagine TV junior se potrivește direct cu domeniul regiei de film și televiziune și postproducție."
+    "matchPercentage": 85,
+    "reason": "Editare video, grafică și animație sunt competențe tehnice directe (montaj, postproducție), la nivel entry part-time."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -75,31 +41,14 @@
       "Municipiul targu jiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:05:08.760Z",
+    "date": "2026-10-07T15:08:34.255Z",
     "status": "scraped",
     "tags": [
       "Sunet și montaj",
       "Practici de scenă"
     ],
-    "matchPercentage": 90,
-    "reason": "Post de maestru de sunet la un teatru, fără experiență cerută — potrivire directă cu competențele de sunet și practici de scenă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editare",
-    "title": "Video editare",
-    "company": "STRATEGIC SRL",
-    "location": [
-      "Piata Unirii, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:02:34.028Z",
-    "status": "scraped",
-    "tags": [
-      "Editare video",
-      "Postproducție audiovisuală"
-    ],
-    "matchPercentage": 88,
-    "reason": "Post de video editor cu editare și post-procesare video — potrivire directă cu competențele de editare video/nonlineară și postproducție."
+    "matchPercentage": 85,
+    "reason": "Maestru de sunet într-un teatru - combină direct competența de sunet cu lucrul în artele spectacolului, nivel entry."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3400101",
@@ -109,200 +58,48 @@
       "Caracal, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:51:44.393Z",
+    "date": "2026-10-07T15:19:02.175Z",
     "status": "scraped",
     "tags": [
-      "Sunet și montaj"
+      "Sunet și montaj",
+      "Practici de scenă"
     ],
-    "matchPercentage": 85,
-    "reason": "Post de maestru de sunet level entry (0 ani experiență) care folosește direct competența tehnică de sunet, deși contextul e muzical, nu teatral."
+    "matchPercentage": 80,
+    "reason": "Maestru de sunet presupune competențe de sunet specifice spectacolului/audiovizualului, fără experiență cerută."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/producator-audiovideo-regizor-tv-3",
-    "title": "Producator audiovideo / Regizor TV",
-    "company": "SHORT SHOT S.R.L.",
+    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
+    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
+    "company": "PIATA GYON SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:51:54.959Z",
+    "date": "2026-10-07T15:12:02.942Z",
     "status": "scraped",
     "tags": [
-      "Regie film",
+      "Tehnici de editare video",
       "Producție multimedia"
     ],
-    "matchPercentage": 82,
-    "reason": "Producție audiovizuală și regie TV, domeniul se potrivește direct cu competențele de regie și producție."
+    "matchPercentage": 78,
+    "reason": "Internship în care vei filma, edita și publica conținut video real, ceea ce folosește direct competențele tale de imagine, montaj și producție multimedia, dar domeniul (jurnalism agricol) se potrivește doar parțial."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/Gameloft/744000153186819",
-    "title": "Video Artist",
-    "company": "GAMELOFT ROMANIA SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:00:22.822Z",
-    "status": "scraped",
-    "tags": [
-      "Editare video",
-      "Producție multimedia"
-    ],
-    "matchPercentage": 72,
-    "reason": "Producție de trailere video (montaj, post-producție, livrare pe platforme) folosește direct competențele de editare video, deși contextul e marketing de jocuri."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
-    "title": "Content &amp; Social Media Specialist",
-    "company": "ASTRA FILM S.R.L.",
-    "location": [
-      "Pipera, Voluntari, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:52:34.058Z",
-    "status": "scraped",
-    "tags": [
-      "multimedia",
-      "editare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Postul de content și social media poate folosi competențe de producție multimedia și editare digitală."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/cautam-asistent-manager-3",
-    "title": "Căutăm asistent manager!",
-    "company": "ASTRA FILM S.R.L.",
-    "location": [
-      "Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:52:23.085Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "management"
-    ],
-    "matchPercentage": 65,
-    "reason": "Activitatea la un festival de film poate fi legată de producție culturală, dar sarcinile sunt în mare parte administrative."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/hair-stylist-tv-1",
-    "title": "Hair Stylist / TV",
-    "company": "ALEPH MEDIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:12:55.855Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "scenă"
-    ],
-    "matchPercentage": 65,
-    "reason": "Hair stylist pentru TV face parte din echipa de producție, dar nu folosește competențe artistice creative principale."
-  },
-  {
-    "url": "https://multijobs.ro/job/social-media-specialist-video-focus/5782",
-    "title": "Social Media Specialist - Video Focus",
+    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
+    "title": "Producător Știri TV",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:05:38.191Z",
+    "date": "2026-10-07T15:10:04.834Z",
     "status": "scraped",
     "tags": [
-      "Editare video",
+      "Regie de film și televiziune",
       "Producție multimedia"
     ],
-    "matchPercentage": 65,
-    "reason": "Producerea de conținut video pentru social media folosește direct competențele de editare video și producție multimedia, dar domeniul e doar parțial relevant (marketing, nu audiovizual de artă)."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
-    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
-    "company": "EVOBRAND SRL",
-    "location": [
-      "Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:08:26.479Z",
-    "status": "scraped",
-    "tags": [
-      "producție multimedia",
-      "editare video"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rolul presupune creare de conținut video și vizual pentru media, ceea ce se suprapune parțial cu producția multimedia și editarea, iar nivelul (min. 1 an) e accesibil unui junior."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/consultant-fonduri-europene-scriere-si-implementare-proiecte/1988214",
-    "title": "Consultant Fonduri Europene Scriere și Implementare Proiecte",
-    "company": "AHMED DELIVERY S.R.L. S.R.L.",
-    "location": [
-      "Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:07:39.535Z",
-    "status": "scraped",
-    "tags": [
-      "proiecte culturale",
-      "management cultural"
-    ],
-    "matchPercentage": 65,
-    "reason": "Consultanta in scriere de proiecte europene poate folosi competentele de elaborare de proiecte culturale si management cultural, dar nu utilizeaza in mod direct creatia artistica."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
-    "title": "Consultant scriere proiecte - Remote",
-    "company": "SYREM CONSULT S.R.L.",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:02:56.134Z",
-    "status": "scraped",
-    "tags": [
-      "proiecte culturale",
-      "management cultural"
-    ],
-    "matchPercentage": 65,
-    "reason": "Scrierea de proiecte europene poate implica elaborarea de proiecte culturale, dar sarcinile nu vizeaza direct competentele artistice de specialitate."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-video",
-    "title": "Specialist Video",
-    "company": "SOURCELESS NCH ROMANIA S.R.L.",
-    "location": [
-      "Jt Tower Apartament, Strada M10, Mamaia-Sat, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:04:39.741Z",
-    "status": "scraped",
-    "tags": [
-      "Editare video",
-      "Producție multimedia"
-    ],
-    "matchPercentage": 62,
-    "reason": "Rol de specialist video presupune realizare și editare de conținut video, o potrivire parțială cu competențele de editare și producție multimedia."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271579/PPC-ROMANIA/Specialist-Comunicare-Digitala-(contractor)",
-    "title": "Specialist Comunicare Digitala (contractor)",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:44:41.721Z",
-    "status": "scraped",
-    "tags": [
-      "Producție multimedia",
-      "Media digitală"
-    ],
-    "matchPercentage": 62,
-    "reason": "Comunicare digitală presupune producție de conținut multimedia pentru media, o competență din profil, la nivel entry/specialist."
+    "matchPercentage": 72,
+    "reason": "Producător de știri TV se leagă de televiziune și producție audiovisuală, dar descrierea este minimă și rolul poate fi mai degrabă administrativ."
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
@@ -312,13 +109,47 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:58:38.007Z",
+    "date": "2026-10-07T15:28:04.296Z",
+    "status": "scraped",
+    "tags": [
+      "Imagine de film",
+      "Tehnici de editare video"
+    ],
+    "matchPercentage": 68,
+    "reason": "Creare conținut foto-video este parțial relevantă pentru competențele de imagine și editare, dar contextul este marketing de produs, nu audiovizual de artă."
+  },
+  {
+    "url": "https://multijobs.ro/job/social-media-specialist-video-focus/5782",
+    "title": "Social Media Specialist - Video Focus",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:21:13.961Z",
     "status": "scraped",
     "tags": [
       "Producție multimedia",
-      "Editare video"
+      "Tehnici de editare video"
     ],
-    "matchPercentage": 60,
-    "reason": "Generarea de material foto-video intră în competențele de producție multimedia, dar postul e predominant de asistent marketing, deci doar potrivire parțială."
+    "matchPercentage": 68,
+    "reason": "Conținut video pentru social media se bazează pe competențe de producție multimedia și editare, dar domeniul e doar parțial relevant."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:27:48.196Z",
+    "status": "scraped",
+    "tags": [
+      "producție multimedia",
+      "editare video"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol junior de conținut media cu editare video în CapCut și vizualuri, potrivit parțial competențelor de producție multimedia și editare."
   }
 ]
