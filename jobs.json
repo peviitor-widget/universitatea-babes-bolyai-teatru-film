@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
-    "title": "Producator audiovideo / Regizor TV_Short Shot",
-    "company": "CONFIDENTIAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:11:34.711Z",
-    "status": "scraped",
-    "tags": [
-      "Regie film",
-      "Productie audiovideo"
-    ],
-    "matchPercentage": 92,
-    "reason": "Rol de producator audiovideo/regizor TV care cere explicit studii de film/regie si coordonare pe platou."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/producator-audiovideo-regizor-tv-3",
     "title": "Producator audiovideo / Regizor TV",
     "company": "SHORT SHOT S.R.L.",
@@ -27,62 +10,62 @@
     "date": "2026-10-11T15:00:56.041Z",
     "status": "scraped",
     "tags": [
-      "Regie TV",
-      "Productie audiovideo"
+      "regie film",
+      "productie audiovizual"
     ],
-    "matchPercentage": 88,
-    "reason": "Producator audiovideo/Regizor TV foloseste direct regie si productie audiovisuala, nivel adecvat."
+    "matchPercentage": 92,
+    "reason": "Producator audiovideo/Regizor TV corespunde direct competentelor de regie de film, imagine si postproductie."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271987/Aleph-News/Editor-imagine-TV-Junior",
-    "title": "Editor imagine TV Junior",
-    "company": "ALEPH MEDIA S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
+    "title": "MAESTRU DE SUNET",
+    "company": "TEATRUL DE DRAMA SI COMEDIE FANTASTIC SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Municipiul targu jiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:47:33.478Z",
+    "date": "2026-10-12T17:31:08.597Z",
     "status": "scraped",
     "tags": [
-      "editare video",
-      "montaj"
+      "sunet",
+      "teatru"
     ],
-    "matchPercentage": 85,
-    "reason": "Editor imagine TV junior folosește direct montajul, editarea video nonlineară și postproducția audiovisuală."
+    "matchPercentage": 82,
+    "reason": "Maestru de sunet într-un teatru, folosește direct competențele de sunet și postproducție, fără experiență cerută."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-videograf-reclame-meta-tiktok-1",
-    "title": "Video Editor &amp; Videograf — Reclame Meta &amp; TikTok",
-    "company": "THE BRICKS LOFTS S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3208681",
+    "title": "OPERATOR PRODUCTIE RTV",
+    "company": "SIAN IMAGE MEDIA SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Constanta, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:09:28.775Z",
+    "date": "2026-10-12T17:33:46.309Z",
     "status": "scraped",
     "tags": [
-      "editare video",
-      "imagine"
+      "Producție TV",
+      "Audiovisual"
     ],
-    "matchPercentage": 85,
-    "reason": "Video editor și videograf folosește direct editarea video, imaginea și postproducția pentru conținut media."
+    "matchPercentage": 78,
+    "reason": "Operator producție RTV la o casă media folosește direct competențe de producție TV și audiovisual, nivel entry."
   },
   {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
-    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
-    "company": "PIATA GYON SRL",
+    "url": "https://multijobs.ro/job/anunt-angajare-referent-productie-video/3096",
+    "title": "Anunt angajare referent productie video",
+    "company": "REGIA NATIONALA A PADURILOR ROMSILVA RA",
     "location": [
-      "Bucuresti, Romania"
+      "Suceava, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:12:36.661Z",
+    "date": "2026-10-12T17:31:40.021Z",
     "status": "scraped",
     "tags": [
-      "imagine",
-      "montaj"
+      "producție video",
+      "audiovisual"
     ],
-    "matchPercentage": 85,
-    "reason": "Internship de jurnalism multimedia care folosește direct filmarea, editarea video și producția de conținut audiovisual."
+    "matchPercentage": 75,
+    "reason": "Referent producție video, rol entry-level de producție audiovisuală care folosește competențele de video."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -96,10 +79,10 @@
     "status": "scraped",
     "tags": [
       "producție TV",
-      "organizare"
+      "producție audiovisuală"
     ],
-    "matchPercentage": 75,
-    "reason": "Asistent producție TV implică suport operațional și coordonare logistică în producția de televiziune, potrivit nivelului de început."
+    "matchPercentage": 73,
+    "reason": "Asistent producție TV cu suport operațional și coordonare logistică de producție audiovizuală, nivel entry."
   },
   {
     "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
@@ -109,31 +92,65 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:42:05.180Z",
+    "date": "2026-10-12T17:27:38.054Z",
     "status": "scraped",
     "tags": [
-      "Productie TV",
-      "Media"
+      "productie audiovizual",
+      "media"
     ],
-    "matchPercentage": 74,
-    "reason": "Producator stiri TV este in domeniul productiei audiovizuale, potrivit ca nivel entry/mid."
+    "matchPercentage": 72,
+    "reason": "Producator de stiri TV foloseste direct competente de productie audiovisuala si media, nivel accesibil."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/graphic-designer-3d-video-mapping",
-    "title": "GRAPHIC DESIGNER / 3D &amp; VIDEO MAPPING",
-    "company": "CORVIN TRANSGROUP SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/social-media-video-editor-content-creator",
+    "title": "Social Media - Video Editor / Content Creator",
+    "company": "IGNITE CREATIVE STUDIO S.R.L.",
     "location": [
-      "Strada Serei 31, Hunedoara, Hunedoara, Romania"
+      "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:01:20.682Z",
+    "date": "2026-10-12T17:28:39.894Z",
     "status": "scraped",
     "tags": [
-      "artă vizuală",
+      "editare video",
       "media digitală"
     ],
     "matchPercentage": 72,
-    "reason": "Design grafic și video mapping valorifică direct arta vizuală și media digitală interactivă."
+    "reason": "Video editor/content creator, folosește direct competențele de editare video și conținut digital."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
+    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
+    "company": "PIATA GYON SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:12:36.661Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "producție multimedia"
+    ],
+    "matchPercentage": 72,
+    "reason": "Internship de videojurnalist cu filmare, editare și producție de conținut multimedia, potrivit domeniului și nivelului."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
+    "title": "Content &amp; Social Media Specialist",
+    "company": "ASTRA FILM S.R.L.",
+    "location": [
+      "Pipera, Voluntari, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:36:06.705Z",
+    "status": "scraped",
+    "tags": [
+      "conținut media",
+      "producție multimedia"
+    ],
+    "matchPercentage": 68,
+    "reason": "Specialist conținut și social media într-o companie de producție de film, folosește creare de conținut media, nivel junior."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/cautam-asistent-manager-3",
@@ -147,26 +164,43 @@
     "status": "scraped",
     "tags": [
       "evenimente culturale",
-      "organizare"
+      "management cultural"
     ],
     "matchPercentage": 62,
-    "reason": "Asistent manager într-un festival de film implică organizarea unui eveniment cultural, competență directă a ta, deși sarcina e parțial administrativă."
+    "reason": "Asistent manager la festival de film documentar, implică organizare de evenimente culturale, nivel entry."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
-    "title": "Content &amp; Social Media Specialist",
-    "company": "ASTRA FILM S.R.L.",
+    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
+    "title": "Creator continut foto - video &amp; Asistent marketing.",
+    "company": "PESTCONTROL EXPERT SRL",
     "location": [
-      "Pipera, Voluntari, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:36:06.705Z",
+    "date": "2026-10-12T17:28:29.905Z",
     "status": "scraped",
     "tags": [
-      "content multimedia",
-      "media digitală"
+      "conținut multimedia",
+      "foto-video"
     ],
     "matchPercentage": 62,
-    "reason": "Specialist conținut și social media într-o casă de producție folosește producția multimedia și conținut digital, parțial relevant."
+    "reason": "Creator conținut foto-video cu atribuții parțiale de marketing, folosește parțial competențele multimedia."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
+    "title": "Consultant scriere proiecte - Remote",
+    "company": "SYREM CONSULT S.R.L.",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:26:21.389Z",
+    "status": "scraped",
+    "tags": [
+      "dosare finantare",
+      "elaborare proiecte"
+    ],
+    "matchPercentage": 62,
+    "reason": "Scrierea de proiecte si dosare de finantare este o competenta transferabila, desi domeniul este generic si nu cultural."
   }
 ]
