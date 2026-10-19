@@ -1,39 +1,21 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
-    "title": "Video Editor Creativ (Short &amp; Long Form)",
-    "company": "VICTOR BEBIEN IMPEX SRL",
+    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
+    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
+    "company": "PIATA GYON SRL",
     "location": [
-      "Remote",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
     "date": "2026-10-17T12:05:10.752Z",
     "status": "scraped",
     "tags": [
-      "Editare video",
-      "Postproducție audiovisuală"
+      "editare video",
+      "producție multimedia"
     ],
-    "matchPercentage": 88,
-    "reason": "Video editing direct, short & long form, remote – se potrivește cu competențele de editare video nonlineară și postproducție audiovisuală."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
-    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
-    "company": "MATEI TAKEAWAY S.R.L.",
-    "location": [
-      "Municipiul suceava",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:31.586Z",
-    "status": "scraped",
-    "tags": [
-      "Producție și organizare de evenimente culturale",
-      "Practici de scenă"
-    ],
-    "matchPercentage": 85,
-    "reason": "Coordonarea procesului de producție a unui spectacol este direct în domeniul artele spectacolului, nivel sub 3 ani experiență."
+    "matchPercentage": 82,
+    "reason": "Internship de videojurnalist cu filmare, editare și producție de conținut video, potrivit nivelului și competențelor tale."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3208681",
@@ -48,45 +30,9 @@
     "status": "scraped",
     "tags": [
       "Producție multimedia",
-      "Imagine de film și televiziune"
-    ],
-    "matchPercentage": 82,
-    "reason": "Producție RTV intră direct în producția audiovizuală/televiziune, la nivel entry-level fără experiență."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
-    "title": "Asistent Productie TV",
-    "company": "ANTENA 3 SA",
-    "location": [
-      "Buftea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:02.574Z",
-    "status": "scraped",
-    "tags": [
-      "Producție multimedia",
-      "Practici de scenă"
-    ],
-    "matchPercentage": 75,
-    "reason": "Asistent producție TV la Antena 3 - lucrează direct cu producători și regizori în producție audiovizuală, nivel entry-level potrivit."
-  },
-  {
-    "url": "https://www.atvrom.ro/cariere#5",
-    "title": "Grafician foto/video",
-    "company": "ATVROM AGREMENT SRL",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:11:40.548Z",
-    "status": "scraped",
-    "tags": [
-      "Imagine de film",
-      "Editare video"
+      "Lucru în echipă în condiții de producție"
     ],
     "matchPercentage": 62,
-    "reason": "Postul de grafician foto/video într-o agenție de marketing folosește parțial competențele de imagine și editare, dar nucleul jobului e marketing online, nu producție de conținut artistic."
+    "reason": "Operator producție RTV folosește direct competențe de producție audiovizuală și lucru în condiție de producție, la nivel fără experiență, dar descrierea e foarte săracă."
   }
 ]
