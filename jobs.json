@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
+    "title": "Video Editor Creativ (Short &amp; Long Form)",
+    "company": "VICTOR BEBIEN IMPEX SRL",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:10.752Z",
+    "status": "scraped",
+    "tags": [
+      "montaj",
+      "editare video"
+    ],
+    "matchPercentage": 95,
+    "reason": "Postul de Video Editor Creativ se potrivește direct competențelor de editare video, montaj și postproducție."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
+    "title": "Producator audiovideo / Regizor TV_Short Shot",
+    "company": "CONFIDENTIAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:51.964Z",
+    "status": "scraped",
+    "tags": [
+      "Regie de film",
+      "Montaj și postproducție"
+    ],
+    "matchPercentage": 92,
+    "reason": "Poziția combină regia de platou, coordonarea cameră/sunet/lumini și supervizarea montajului, potrivindu-se direct cu studiile și competențele tehnice, la nivel de junior/mid."
+  },
+  {
     "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
     "title": "INTERNSHIP JURNALIST MULTIMEDIA",
     "company": "PIATA GYON SRL",
@@ -11,11 +47,47 @@
     "date": "2026-10-17T12:05:10.752Z",
     "status": "scraped",
     "tags": [
-      "editare video",
-      "producție multimedia"
+      "Editare video",
+      "Producție multimedia"
     ],
-    "matchPercentage": 82,
-    "reason": "Internship de videojurnalist cu filmare, editare și producție de conținut video, potrivit nivelului și competențelor tale."
+    "matchPercentage": 88,
+    "reason": "Internship practic de filmare, editare și producție de conținut video – potrivire directă cu competențele de imagine, montaj și producție multimedia."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
+    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
+    "company": "MATEI TAKEAWAY S.R.L.",
+    "location": [
+      "Municipiul suceava",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:31.586Z",
+    "status": "scraped",
+    "tags": [
+      "Producție evenimente culturale",
+      "Management cultural"
+    ],
+    "matchPercentage": 85,
+    "reason": "Coordonarea procesului de producție a unui spectacol folosește direct competențele de producție și organizare de evenimente culturale, la nivel sub 3 ani experiență."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
+    "title": "Asistent Productie TV",
+    "company": "ANTENA 3 SA",
+    "location": [
+      "Buftea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:02.574Z",
+    "status": "scraped",
+    "tags": [
+      "Producție multimedia",
+      "Lucrul în echipă de producție"
+    ],
+    "matchPercentage": 78,
+    "reason": "Suportul de producție TV, colaborarea cu regizorii și coordonarea logistică a echipamentelor folosesc direct experiența de platou și producție audiovisuală, la nivel entry."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3208681",
@@ -29,10 +101,82 @@
     "date": "2026-10-17T12:16:31.386Z",
     "status": "scraped",
     "tags": [
-      "Producție multimedia",
-      "Lucru în echipă în condiții de producție"
+      "imagine de film",
+      "producție multimedia"
     ],
-    "matchPercentage": 62,
-    "reason": "Operator producție RTV folosește direct competențe de producție audiovizuală și lucru în condiție de producție, la nivel fără experiență, dar descrierea e foarte săracă."
+    "matchPercentage": 75,
+    "reason": "Operator producție RTV folosește direct competențele de imagine, montaj și producție audiovisuală, la nivel fără experiență."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
+    "title": "Creator continut foto - video &amp; Asistent marketing.",
+    "company": "PESTCONTROL EXPERT SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:33.890Z",
+    "status": "scraped",
+    "tags": [
+      "conținut",
+      "editare video"
+    ],
+    "matchPercentage": 72,
+    "reason": "Crearea de conținut foto-video pentru media digitală se potrivește parțial competențelor de producție multimedia."
+  },
+  {
+    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
+    "title": "Producător Știri TV",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:45.536Z",
+    "status": "scraped",
+    "tags": [
+      "Producție multimedia",
+      "Regie de film"
+    ],
+    "matchPercentage": 70,
+    "reason": "Producția de conținut TV intră în domeniul media și producției audiovisuală, dar anunțul oferă prea puține detalii despre nivel și sarcinile tehnice exacte."
+  },
+  {
+    "url": "https://www.atvrom.ro/cariere#5",
+    "title": "Grafician foto/video",
+    "company": "ATVROM AGREMENT SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:40.548Z",
+    "status": "scraped",
+    "tags": [
+      "foto-video",
+      "conținut"
+    ],
+    "matchPercentage": 70,
+    "reason": "Realizarea de material foto-video și posibilitatea unui intern fac postul parțial relevant pentru producție audiovisuală."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:20.065Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "producție multimedia"
+    ],
+    "matchPercentage": 65,
+    "reason": "Marketing de conținut cu editare video în CapCut și creare vizualuri folosește parțial competențele de editare video și producție multimedia, la nivel entry/junior."
   }
 ]
