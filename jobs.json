@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
-    "title": "Video Editor Creativ (Short &amp; Long Form)",
-    "company": "VICTOR BEBIEN IMPEX SRL",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:10.752Z",
-    "status": "scraped",
-    "tags": [
-      "montaj",
-      "editare video"
-    ],
-    "matchPercentage": 95,
-    "reason": "Postul de Video Editor Creativ se potrivește direct competențelor de editare video, montaj și postproducție."
-  },
-  {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
     "title": "Producator audiovideo / Regizor TV_Short Shot",
     "company": "CONFIDENTIAL SRL",
@@ -29,47 +11,11 @@
     "date": "2026-10-17T12:21:51.964Z",
     "status": "scraped",
     "tags": [
-      "Regie de film",
-      "Montaj și postproducție"
+      "regie film",
+      "producție audiovisuală"
     ],
-    "matchPercentage": 92,
-    "reason": "Poziția combină regia de platou, coordonarea cameră/sunet/lumini și supervizarea montajului, potrivindu-se direct cu studiile și competențele tehnice, la nivel de junior/mid."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
-    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
-    "company": "PIATA GYON SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:10.752Z",
-    "status": "scraped",
-    "tags": [
-      "Editare video",
-      "Producție multimedia"
-    ],
-    "matchPercentage": 88,
-    "reason": "Internship practic de filmare, editare și producție de conținut video – potrivire directă cu competențele de imagine, montaj și producție multimedia."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
-    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
-    "company": "MATEI TAKEAWAY S.R.L.",
-    "location": [
-      "Municipiul suceava",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:31.586Z",
-    "status": "scraped",
-    "tags": [
-      "Producție evenimente culturale",
-      "Management cultural"
-    ],
-    "matchPercentage": 85,
-    "reason": "Coordonarea procesului de producție a unui spectacol folosește direct competențele de producție și organizare de evenimente culturale, la nivel sub 3 ani experiență."
+    "matchPercentage": 90,
+    "reason": "Producător audiovizual și regizor la filmări TV, cu set tehnic, planificare de resurse și coordonarea montajului – potrivire directă cu regie, producție și editare video."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -83,47 +29,65 @@
     "date": "2026-10-17T12:14:02.574Z",
     "status": "scraped",
     "tags": [
-      "Producție multimedia",
-      "Lucrul în echipă de producție"
+      "producție TV",
+      "echipamente"
     ],
-    "matchPercentage": 78,
-    "reason": "Suportul de producție TV, colaborarea cu regizorii și coordonarea logistică a echipamentelor folosesc direct experiența de platou și producție audiovisuală, la nivel entry."
+    "matchPercentage": 88,
+    "reason": "Asistent producție TV: suport operațional, logistică de echipamente și colaborare cu producători și regizori – potrivire directă cu producția audiovisuală."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3208681",
-    "title": "OPERATOR PRODUCTIE RTV",
-    "company": "SIAN IMAGE MEDIA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
+    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
+    "company": "MATEI TAKEAWAY S.R.L.",
     "location": [
-      "Constanta",
+      "Municipiul suceava",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:16:31.386Z",
+    "date": "2026-10-17T12:14:31.586Z",
     "status": "scraped",
     "tags": [
-      "imagine de film",
-      "producție multimedia"
+      "producție spectacole",
+      "organizare evenimente"
     ],
-    "matchPercentage": 75,
-    "reason": "Operator producție RTV folosește direct competențele de imagine, montaj și producție audiovisuală, la nivel fără experiență."
+    "matchPercentage": 86,
+    "reason": "Producție delegată pentru spectacole de teatru, cu experiență cerută sub 3 ani, folosește direct competențele de coordonare a rețelei de spectacole și organizare artistică."
   },
   {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video &amp; Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
+    "title": "Video Editor Creativ (Short &amp; Long Form)",
+    "company": "VICTOR BEBIEN IMPEX SRL",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:10.752Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "montaj"
+    ],
+    "matchPercentage": 86,
+    "reason": "Video editor creativ pentru formate scurte și lungi, corespondență directă cu editarea non-lineară și montajul."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
+    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
+    "company": "PIATA GYON SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:33.890Z",
+    "date": "2026-10-17T12:05:10.752Z",
     "status": "scraped",
     "tags": [
-      "conținut",
+      "realizare documentare",
       "editare video"
     ],
-    "matchPercentage": 72,
-    "reason": "Crearea de conținut foto-video pentru media digitală se potrivește parțial competențelor de producție multimedia."
+    "matchPercentage": 80,
+    "reason": "Internship de jurnalism multimedia cu filmare pe teren, editare video și conținut pentru rețele sociale, la nivel de student începător."
   },
   {
     "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
@@ -137,11 +101,64 @@
     "date": "2026-10-17T12:08:45.536Z",
     "status": "scraped",
     "tags": [
-      "Producție multimedia",
-      "Regie de film"
+      "producție TV",
+      "regie"
+    ],
+    "matchPercentage": 78,
+    "reason": "Producător de știri TV intră în sfera cinematografiei și a producției media, iar titlul indică un nivel de intrare accesibil."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
+    "title": "Creator continut foto - video &amp; Asistent marketing.",
+    "company": "PESTCONTROL EXPERT SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:33.890Z",
+    "status": "scraped",
+    "tags": [
+      "producție multimedia",
+      "editare video"
     ],
     "matchPercentage": 70,
-    "reason": "Producția de conținut TV intră în domeniul media și producției audiovisuală, dar anunțul oferă prea puține detalii despre nivel și sarcinile tehnice exacte."
+    "reason": "Creare de conținut foto-video pentru campanii și social media, cu accent pe producție și editare de material video."
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-game-tester-experienta-nu-e-eeQryP",
+    "title": "Game Tester Experienta nu e necesara Participare teste jocuri/alte proiecte",
+    "company": "ANUNTUL TOTAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:44.667Z",
+    "status": "scraped",
+    "tags": [
+      "media digitală",
+      "conținut interactiv"
+    ],
+    "matchPercentage": 66,
+    "reason": "Game tester cu participare la teste jocuri, nivel entry-level fara experienta, incadrabil in media digitala si continut interactiv, desi fara tangenta directa cu filmul sau teatrul."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/asistenta-manager",
+    "title": "Asistenta manager",
+    "company": "DOX FILM SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:00:55.855Z",
+    "status": "scraped",
+    "tags": [
+      "organizare evenimente",
+      "producție"
+    ],
+    "matchPercentage": 62,
+    "reason": "Poziție de asistent manager într-o firmă de organizare evenimente și film, fără experiență obligatorie, cu atribuții de agendă și reprezentare care pot conduce spre sfera evenimentelor culturale."
   },
   {
     "url": "https://www.atvrom.ro/cariere#5",
@@ -155,28 +172,10 @@
     "date": "2026-10-17T12:11:40.548Z",
     "status": "scraped",
     "tags": [
-      "foto-video",
-      "conținut"
+      "conținut media",
+      "editare video"
     ],
-    "matchPercentage": 70,
-    "reason": "Realizarea de material foto-video și posibilitatea unui intern fac postul parțial relevant pentru producție audiovisuală."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
-    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
-    "company": "EVOBRAND SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:20.065Z",
-    "status": "scraped",
-    "tags": [
-      "editare video",
-      "producție multimedia"
-    ],
-    "matchPercentage": 65,
-    "reason": "Marketing de conținut cu editare video în CapCut și creare vizualuri folosește parțial competențele de editare video și producție multimedia, la nivel entry/junior."
+    "matchPercentage": 62,
+    "reason": "Poziție de grafician foto/video în agenție de marketing digital, cu variantă de intern, relevantă parțial pentru producția de conținut."
   }
 ]
