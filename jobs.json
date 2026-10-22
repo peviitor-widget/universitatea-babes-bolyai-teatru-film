@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
-    "title": "Producator audiovideo / Regizor TV_Short Shot",
-    "company": "CONFIDENTIAL SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
+    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
+    "company": "MATEI TAKEAWAY S.R.L.",
     "location": [
-      "Bucuresti",
+      "Municipiul suceava",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:21:51.964Z",
+    "date": "2026-10-17T12:14:31.586Z",
     "status": "scraped",
     "tags": [
-      "regie film",
-      "producție audiovisuală"
+      "producție",
+      "coordonare"
     ],
-    "matchPercentage": 90,
-    "reason": "Producător audiovizual și regizor la filmări TV, cu set tehnic, planificare de resurse și coordonarea montajului – potrivire directă cu regie, producție și editare video."
+    "matchPercentage": 95,
+    "reason": "Producție teatrală directă, coordonare spectacol"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -29,29 +29,11 @@
     "date": "2026-10-17T12:14:02.574Z",
     "status": "scraped",
     "tags": [
-      "producție TV",
-      "echipamente"
+      "producție",
+      "audiovizual"
     ],
-    "matchPercentage": 88,
-    "reason": "Asistent producție TV: suport operațional, logistică de echipamente și colaborare cu producători și regizori – potrivire directă cu producția audiovisuală."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
-    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
-    "company": "MATEI TAKEAWAY S.R.L.",
-    "location": [
-      "Municipiul suceava",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:31.586Z",
-    "status": "scraped",
-    "tags": [
-      "producție spectacole",
-      "organizare evenimente"
-    ],
-    "matchPercentage": 86,
-    "reason": "Producție delegată pentru spectacole de teatru, cu experiență cerută sub 3 ani, folosește direct competențele de coordonare a rețelei de spectacole și organizare artistică."
+    "matchPercentage": 90,
+    "reason": "Suport producție TV, domeniu audiovizual potrivit"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
@@ -66,116 +48,9 @@
     "status": "scraped",
     "tags": [
       "editare video",
-      "montaj"
+      "postproducție"
     ],
-    "matchPercentage": 86,
-    "reason": "Video editor creativ pentru formate scurte și lungi, corespondență directă cu editarea non-lineară și montajul."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
-    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
-    "company": "PIATA GYON SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:10.752Z",
-    "status": "scraped",
-    "tags": [
-      "realizare documentare",
-      "editare video"
-    ],
-    "matchPercentage": 80,
-    "reason": "Internship de jurnalism multimedia cu filmare pe teren, editare video și conținut pentru rețele sociale, la nivel de student începător."
-  },
-  {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:45.536Z",
-    "status": "scraped",
-    "tags": [
-      "producție TV",
-      "regie"
-    ],
-    "matchPercentage": 78,
-    "reason": "Producător de știri TV intră în sfera cinematografiei și a producției media, iar titlul indică un nivel de intrare accesibil."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video &amp; Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:33.890Z",
-    "status": "scraped",
-    "tags": [
-      "producție multimedia",
-      "editare video"
-    ],
-    "matchPercentage": 70,
-    "reason": "Creare de conținut foto-video pentru campanii și social media, cu accent pe producție și editare de material video."
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-game-tester-experienta-nu-e-eeQryP",
-    "title": "Game Tester Experienta nu e necesara Participare teste jocuri/alte proiecte",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:44.667Z",
-    "status": "scraped",
-    "tags": [
-      "media digitală",
-      "conținut interactiv"
-    ],
-    "matchPercentage": 66,
-    "reason": "Game tester cu participare la teste jocuri, nivel entry-level fara experienta, incadrabil in media digitala si continut interactiv, desi fara tangenta directa cu filmul sau teatrul."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/asistenta-manager",
-    "title": "Asistenta manager",
-    "company": "DOX FILM SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:00:55.855Z",
-    "status": "scraped",
-    "tags": [
-      "organizare evenimente",
-      "producție"
-    ],
-    "matchPercentage": 62,
-    "reason": "Poziție de asistent manager într-o firmă de organizare evenimente și film, fără experiență obligatorie, cu atribuții de agendă și reprezentare care pot conduce spre sfera evenimentelor culturale."
-  },
-  {
-    "url": "https://www.atvrom.ro/cariere#5",
-    "title": "Grafician foto/video",
-    "company": "ATVROM AGREMENT SRL",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:11:40.548Z",
-    "status": "scraped",
-    "tags": [
-      "conținut media",
-      "editare video"
-    ],
-    "matchPercentage": 62,
-    "reason": "Poziție de grafician foto/video în agenție de marketing digital, cu variantă de intern, relevantă parțial pentru producția de conținut."
+    "matchPercentage": 82,
+    "reason": "Video Editor creativ short & long form, potrivire directă cu montajul și postproducția audiovisuală."
   }
 ]
