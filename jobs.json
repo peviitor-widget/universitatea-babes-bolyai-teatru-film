@@ -1,39 +1,21 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
-    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
-    "company": "MATEI TAKEAWAY S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
+    "title": "Producator audiovideo / Regizor TV_Short Shot",
+    "company": "CONFIDENTIAL SRL",
     "location": [
-      "Municipiul suceava",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:14:31.586Z",
+    "date": "2026-10-17T12:21:51.964Z",
     "status": "scraped",
     "tags": [
-      "producție",
-      "coordonare"
+      "Regie film",
+      "Producție audiovideo"
     ],
-    "matchPercentage": 95,
-    "reason": "Producție teatrală directă, coordonare spectacol"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
-    "title": "Asistent Productie TV",
-    "company": "ANTENA 3 SA",
-    "location": [
-      "Buftea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:02.574Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "audiovizual"
-    ],
-    "matchPercentage": 90,
-    "reason": "Suport producție TV, domeniu audiovizual potrivit"
+    "matchPercentage": 88,
+    "reason": "Producție audiovideo și regie TV cu coordonare platou, montaj și indicii artistice, exact pe competențele de film și televiziune."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
@@ -47,10 +29,64 @@
     "date": "2026-10-17T12:05:10.752Z",
     "status": "scraped",
     "tags": [
-      "editare video",
-      "postproducție"
+      "Montaj video",
+      "Postproducție"
     ],
-    "matchPercentage": 82,
-    "reason": "Video Editor creativ short & long form, potrivire directă cu montajul și postproducția audiovisuală."
+    "matchPercentage": 86,
+    "reason": "Editor video creativ pentru formate scurte și lungi, potrivire directă pe montaj și postproducție."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
+    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
+    "company": "MATEI TAKEAWAY S.R.L.",
+    "location": [
+      "Municipiul suceava",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:31.586Z",
+    "status": "scraped",
+    "tags": [
+      "Producție evenimente",
+      "Management cultural"
+    ],
+    "matchPercentage": 85,
+    "reason": "Coordonare producție de spectacol teatral, nivel junior/mid sub 3 ani, potrivire directă cu competențele de producție și management cultural."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
+    "title": "Asistent Productie TV",
+    "company": "ANTENA 3 SA",
+    "location": [
+      "Buftea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:02.574Z",
+    "status": "scraped",
+    "tags": [
+      "Producție TV",
+      "Producție multimedia"
+    ],
+    "matchPercentage": 80,
+    "reason": "Asistent producție TV cu suport operațional, logistică echipamente și colaborare cu regizori, potrivit competențelor de producție media."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
+    "title": "Creator continut foto - video &amp; Asistent marketing.",
+    "company": "PESTCONTROL EXPERT SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:33.890Z",
+    "status": "scraped",
+    "tags": [
+      "Producție multimedia",
+      "Editare video"
+    ],
+    "matchPercentage": 62,
+    "reason": "Creează material foto-video pentru produse și campanii, folosind competențe de producție audiovisuală, deși contextul este marketing."
   }
 ]
