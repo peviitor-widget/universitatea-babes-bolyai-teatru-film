@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
+    "title": "Producator audiovideo / Regizor TV_Short Shot",
+    "company": "CONFIDENTIAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:51.964Z",
+    "status": "scraped",
+    "tags": [
+      "regie",
+      "producție"
+    ],
+    "matchPercentage": 95,
+    "reason": "Producție audiovideo și regie direct relevante."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
     "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
     "company": "MATEI TAKEAWAY S.R.L.",
@@ -15,61 +33,7 @@
       "coordonare"
     ],
     "matchPercentage": 90,
-    "reason": "Producție teatrală directă, nivel entry-level potrivit."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
-    "title": "Producator audiovideo / Regizor TV_Short Shot",
-    "company": "CONFIDENTIAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:51.964Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "regie"
-    ],
-    "matchPercentage": 90,
-    "reason": "Producție și regie audiovizuală, sarcini directe pentru competențele de specialitate."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
-    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
-    "company": "PIATA GYON SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:10.752Z",
-    "status": "scraped",
-    "tags": [
-      "editare video",
-      "producție multimedia"
-    ],
-    "matchPercentage": 90,
-    "reason": "Internship în producție multimedia/video, potrivit pentru competențe de editare și realizare video."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
-    "title": "Asistent Productie TV",
-    "company": "ANTENA 3 SA",
-    "location": [
-      "Buftea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:02.574Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "logistică"
-    ],
-    "matchPercentage": 85,
-    "reason": "Suport de producție TV, sarcini relevante pentru coordonare și logistică în media."
+    "reason": "Coordonare directă a producției unui spectacol."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
@@ -87,25 +51,43 @@
       "postproducție"
     ],
     "matchPercentage": 85,
-    "reason": "Montaj video creativ short/long form, direct pe competențele de editare și postproducție."
+    "reason": "Editor video pentru formate scurte și lungi, potrivit direct cu competențele de montaj și postproducție audiovisuală."
   },
   {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
+    "title": "Asistent Productie TV",
+    "company": "ANTENA 3 SA",
+    "location": [
+      "Buftea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:02.574Z",
+    "status": "scraped",
+    "tags": [
+      "producție",
+      "TV"
+    ],
+    "matchPercentage": 80,
+    "reason": "Asistent producție TV, relevant pentru domeniu."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
+    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
+    "company": "PIATA GYON SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:08:45.536Z",
+    "date": "2026-10-17T12:05:10.752Z",
     "status": "scraped",
     "tags": [
-      "producție",
-      "media"
+      "montaj",
+      "producție"
     ],
-    "matchPercentage": 70,
-    "reason": "Producție de știri TV, domeniu media relevant dar detaliile sunt vagi."
+    "matchPercentage": 75,
+    "reason": "Internship multimedia cu filmare și editare video."
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
@@ -122,43 +104,7 @@
       "producție video",
       "conținut media"
     ],
-    "matchPercentage": 68,
-    "reason": "Creează material foto-video pentru produse și campanii, folosind competențe de producție media, deși contextul e marketing."
-  },
-  {
-    "url": "https://multijobs.ro/job/operator-foto-editare-si-prelucrare-foto/2063",
-    "title": "Operator Foto (editare și prelucrare foto)",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:18.759Z",
-    "status": "scraped",
-    "tags": [
-      "editare foto",
-      "imagine"
-    ],
-    "matchPercentage": 62,
-    "reason": "Editare și prelucrare foto, potrivit competențelor de imagine, nivel entry."
-  },
-  {
-    "url": "https://www.atvrom.ro/cariere#5",
-    "title": "Grafician foto/video",
-    "company": "ATVROM AGREMENT SRL",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:11:40.548Z",
-    "status": "scraped",
-    "tags": [
-      "foto-video",
-      "media digitală"
-    ],
-    "matchPercentage": 60,
-    "reason": "Post de grafician foto/video cu variantă de intern, dar accentul cade pe marketing online și PPC."
+    "matchPercentage": 65,
+    "reason": "Creează materiale foto-video pentru produse și campanii, folosind competențe de producție media, deși contextul este marketing comercial."
   }
 ]
