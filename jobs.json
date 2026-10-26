@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:21:51.964Z",
     "status": "scraped",
     "tags": [
-      "regie",
-      "producție"
+      "regie TV",
+      "producție audiovideo"
     ],
-    "matchPercentage": 95,
-    "reason": "Producție audiovideo și regie direct relevante."
+    "matchPercentage": 88,
+    "reason": "Rol de producător audiovideo/regizor TV care implică platou, cameră, sunet, montaj și coordonare artistică, potrivit pregătirii de film și televiziune."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
@@ -29,11 +29,11 @@
     "date": "2026-10-17T12:14:31.586Z",
     "status": "scraped",
     "tags": [
-      "producție",
-      "coordonare"
+      "producție spectacol",
+      "management cultural"
     ],
-    "matchPercentage": 90,
-    "reason": "Coordonare directă a producției unui spectacol."
+    "matchPercentage": 85,
+    "reason": "Coordonează producția unui spectacol, folosind direct competențele de producție și management cultural, la un nivel de experiență sub 3 ani."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
@@ -51,7 +51,7 @@
       "postproducție"
     ],
     "matchPercentage": 85,
-    "reason": "Editor video pentru formate scurte și lungi, potrivit direct cu competențele de montaj și postproducție audiovisuală."
+    "reason": "Video editor creativ pentru formate scurte și lungi, potrivire directă cu montajul și postproducția audiovisuală."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -65,29 +65,29 @@
     "date": "2026-10-17T12:14:02.574Z",
     "status": "scraped",
     "tags": [
-      "producție",
-      "TV"
+      "producție TV",
+      "logistică echipamente"
     ],
     "matchPercentage": 80,
-    "reason": "Asistent producție TV, relevant pentru domeniu."
+    "reason": "Asistent producție TV cu suport operațional, logistică de echipamente și colaborare cu regizori, direct relevant pentru producția audiovizuală."
   },
   {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
-    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
-    "company": "PIATA GYON SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3208681",
+    "title": "OPERATOR PRODUCTIE RTV",
+    "company": "SIAN IMAGE MEDIA SRL",
     "location": [
-      "Bucuresti",
+      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:05:10.752Z",
+    "date": "2026-10-17T12:16:31.386Z",
     "status": "scraped",
     "tags": [
-      "montaj",
-      "producție"
+      "producție TV",
+      "montaj video"
     ],
-    "matchPercentage": 75,
-    "reason": "Internship multimedia cu filmare și editare video."
+    "matchPercentage": 80,
+    "reason": "Operator de producție RTV, rol entry-level direct în producția audiovizuală."
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
@@ -102,9 +102,81 @@
     "status": "scraped",
     "tags": [
       "producție video",
-      "conținut media"
+      "media digitală"
+    ],
+    "matchPercentage": 75,
+    "reason": "Produce materiale foto-video pentru produse și campanii, folosind direct competențe de producție vizuală și media digitală."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:20.065Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "producție multimedia"
+    ],
+    "matchPercentage": 68,
+    "reason": "Specialist marketing cu accent pe conținut, video scurt și vizualuri, potrivire parțială pentru media digitală, cu nivel de 1 an acceptabil."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
+    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
+    "company": "PIATA GYON SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:10.752Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "producție multimedia"
     ],
     "matchPercentage": 65,
-    "reason": "Creează materiale foto-video pentru produse și campanii, folosind competențe de producție media, deși contextul este marketing comercial."
+    "reason": "Internship de producție video cu filmare și montaj, dar orientat strict către studenți USAMV și tematică agricolă."
+  },
+  {
+    "url": "https://www.atvrom.ro/cariere#5",
+    "title": "Grafician foto/video",
+    "company": "ATVROM AGREMENT SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:40.548Z",
+    "status": "scraped",
+    "tags": [
+      "foto-video",
+      "editare digitală"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol de grafician foto/video cu variantă de intern, parțial relevant prin crearea și editarea de conținut vizual, deși accentul e pe marketing online."
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-foto-editare-si-prelucrare-foto/2063",
+    "title": "Operator Foto (editare și prelucrare foto)",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Galati",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:18.759Z",
+    "status": "scraped",
+    "tags": [
+      "editare foto",
+      "estetica imaginii"
+    ],
+    "matchPercentage": 60,
+    "reason": "Editare și prelucrare foto, potrivită parțial pentru competențele de estetică a imaginii și editare digitală."
   }
 ]
