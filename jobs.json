@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
+    "title": "Producator audiovideo / Regizor TV_Short Shot",
+    "company": "CONFIDENTIAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:51.964Z",
+    "status": "scraped",
+    "tags": [
+      "regie",
+      "producție"
+    ],
+    "matchPercentage": 95,
+    "reason": "Producție audiovideo și regie TV direct relevante."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
     "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
     "company": "MATEI TAKEAWAY S.R.L.",
@@ -12,46 +30,28 @@
     "status": "scraped",
     "tags": [
       "producție",
-      "teatru"
+      "coordonare"
     ],
     "matchPercentage": 90,
-    "reason": "Coordonare producție spectacol, direct legat de teatru"
+    "reason": "Coordonare directă a producției teatrale."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272310/Producator-audiovideo-/-Regizor-TV_Short-Shot",
-    "title": "Producator audiovideo / Regizor TV_Short Shot",
-    "company": "CONFIDENTIAL SRL",
+    "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
+    "title": "INTERNSHIP JURNALIST MULTIMEDIA",
+    "company": "PIATA GYON SRL",
     "location": [
       "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:51.964Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "regie"
-    ],
-    "matchPercentage": 90,
-    "reason": "Producție audiovideo, regie și coordonare platou"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
-    "title": "Video Editor Creativ (Short &amp; Long Form)",
-    "company": "VICTOR BEBIEN IMPEX SRL",
-    "location": [
-      "Remote",
       "Romania"
     ],
     "salary": null,
     "date": "2026-10-17T12:05:10.752Z",
     "status": "scraped",
     "tags": [
-      "montaj video",
-      "postproducție"
+      "montaj",
+      "producție"
     ],
-    "matchPercentage": 86,
-    "reason": "Postul cere editare video creativă pentru formate scurte și lungi, folosind direct competențele de montaj și postproducție."
+    "matchPercentage": 90,
+    "reason": "Internship multimedia cu filmare, editare video și conținut online, direct relevant pentru producția audiovisuală."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -66,80 +66,9 @@
     "status": "scraped",
     "tags": [
       "producție",
-      "TV"
-    ],
-    "matchPercentage": 85,
-    "reason": "Asistent producție TV, direct relevant audiovizual"
-  },
-  {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:45.536Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "TV"
+      "logistică"
     ],
     "matchPercentage": 75,
-    "reason": "Producție știri TV relevantă pentru domeniul audiovizual"
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157500560-working-student-uiux-design-for-connected-services",
-    "title": "Working Student UI/UX Design for Connected Services",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-26T12:37:42.622Z",
-    "status": "scraped",
-    "tags": [
-      "media digitală",
-      "UI/UX"
-    ],
-    "matchPercentage": 75,
-    "reason": "Design UI/UX relatează la media digitală și conținut interactiv"
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/asistenta-manager",
-    "title": "Asistenta manager",
-    "company": "DOX FILM SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:00:55.855Z",
-    "status": "scraped",
-    "tags": [
-      "evenimente",
-      "organizare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Organizare evenimente culturale, nivel entry-level"
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video &amp; Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:33.890Z",
-    "status": "scraped",
-    "tags": [
-      "foto-video",
-      "producție multimedia"
-    ],
-    "matchPercentage": 68,
-    "reason": "Rolul presupune direct realizarea de materiale foto-video pentru produse și campanii, deși include și sarcini de marketing."
+    "reason": "Suport operațional pentru producție TV, relevant parțial."
   }
 ]
