@@ -15,7 +15,7 @@
       "producție audiovideo"
     ],
     "matchPercentage": 90,
-    "reason": "Rolul de producător audiovideo/regizor TV folosește direct competențe de regie, producție și editare video."
+    "reason": "Producător audiovideo/regizor TV cu studii în film și regie, potrivire directă pe competențele audiovizuale."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
@@ -30,10 +30,28 @@
     "status": "scraped",
     "tags": [
       "montaj video",
-      "postproducție"
+      "postproducție audiovisuală"
     ],
     "matchPercentage": 88,
-    "reason": "Editor video pentru formate scurte și lungi se potrivește direct pe montaj, editare nonlineară și postproducție audiovisuală."
+    "reason": "Editor video creativ pentru formate scurte și lungi, potrivire directă pe montaj și postproducție la nivel entry/mid."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
+    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
+    "company": "MATEI TAKEAWAY S.R.L.",
+    "location": [
+      "Municipiul suceava",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:31.586Z",
+    "status": "scraped",
+    "tags": [
+      "producție teatru",
+      "management cultural"
+    ],
+    "matchPercentage": 85,
+    "reason": "Producție de spectacol teatral cu experiență sub 3 ani, folosind direct competențele de organizare și producție culturală."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -50,44 +68,8 @@
       "producție TV",
       "organizare producție"
     ],
-    "matchPercentage": 86,
-    "reason": "Asistența de producție TV oferă suport operațional și logistic direct în producția audiovisuală, la nivel de intrare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
-    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
-    "company": "MATEI TAKEAWAY S.R.L.",
-    "location": [
-      "Municipiul suceava",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:31.586Z",
-    "status": "scraped",
-    "tags": [
-      "producție culturală",
-      "management cultural"
-    ],
-    "matchPercentage": 83,
-    "reason": "Coordonarea producției unui spectacol folosește competențe de producție și organizare culturală, iar nivelul cere mai puțin de 3 ani experiență."
-  },
-  {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:45.536Z",
-    "status": "scraped",
-    "tags": [
-      "producție TV",
-      "media"
-    ],
-    "matchPercentage": 68,
-    "reason": "Producția de știri TV este în domeniul audiovisual, deși anunțul oferă puține detalii despre nivel și sarcini."
+    "matchPercentage": 75,
+    "reason": "Asistent producție TV cu suport operațional și coordonare logistică în producția media."
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
@@ -102,28 +84,10 @@
     "status": "scraped",
     "tags": [
       "producție video",
-      "estetică vizuală"
+      "conținut media"
     ],
     "matchPercentage": 68,
-    "reason": "Creează materiale foto-video pentru produse și campanii, folosind competențe de producție vizuală, deși rolul include și atribuții de marketing."
-  },
-  {
-    "url": "https://multijobs.ro/job/operator-foto-editare-si-prelucrare-foto/2063",
-    "title": "Operator Foto (editare și prelucrare foto)",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:18.759Z",
-    "status": "scraped",
-    "tags": [
-      "editare digitală",
-      "estetică vizuală"
-    ],
-    "matchPercentage": 65,
-    "reason": "Editarea și prelucrarea foto valorifică competențe de imagine digitală și estetică vizuală, cu nivel de operator entry-level."
+    "reason": "Rol entry-level care presupune realizarea de material foto-video pentru produse și campanii, folosind direct competențe audiovizuale."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services",
@@ -134,13 +98,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:30:56.601Z",
+    "date": "2026-10-29T12:41:42.608Z",
     "status": "scraped",
     "tags": [
       "media digitală",
-      "artă vizuală"
+      "arte interactive"
     ],
-    "matchPercentage": 62,
-    "reason": "Rol de working student in UX/UI design, partial relevant prin proiectarea de media digitala si arta interactiva."
+    "matchPercentage": 68,
+    "reason": "Rol de UI/UX pentru servicii digitale, potrivit parțial cu proiectarea de arte interactive și media digitală, la nivel de working student."
   }
 ]
