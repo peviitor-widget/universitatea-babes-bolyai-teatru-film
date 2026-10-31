@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:21:51.964Z",
     "status": "scraped",
     "tags": [
-      "regie TV",
-      "producție audiovideo"
+      "Regie film",
+      "Producție audiovisuală"
     ],
-    "matchPercentage": 90,
-    "reason": "Producător audiovideo/regizor TV cu studii în film și regie, potrivire directă pe competențele audiovizuale."
+    "matchPercentage": 88,
+    "reason": "Producție audiovideo și regie TV cu coordonare de platou, filmare și montaj, direct pe competențele de regie și producție media."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
@@ -29,11 +29,11 @@
     "date": "2026-10-17T12:05:10.752Z",
     "status": "scraped",
     "tags": [
-      "montaj video",
-      "postproducție audiovisuală"
+      "Montaj video",
+      "Postproducție"
     ],
-    "matchPercentage": 88,
-    "reason": "Editor video creativ pentru formate scurte și lungi, potrivire directă pe montaj și postproducție la nivel entry/mid."
+    "matchPercentage": 85,
+    "reason": "Editează conținut video short și long form, folosind direct competențele de montaj și postproducție audiovisuală."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
@@ -47,11 +47,11 @@
     "date": "2026-10-17T12:14:31.586Z",
     "status": "scraped",
     "tags": [
-      "producție teatru",
-      "management cultural"
+      "Management cultural",
+      "Producție teatrală"
     ],
-    "matchPercentage": 85,
-    "reason": "Producție de spectacol teatral cu experiență sub 3 ani, folosind direct competențele de organizare și producție culturală."
+    "matchPercentage": 80,
+    "reason": "Coordonează producția unui spectacol, folosind direct competențele de management cultural și producție, iar nivelul de experiență cerut este sub 3 ani."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -65,11 +65,11 @@
     "date": "2026-10-17T12:14:02.574Z",
     "status": "scraped",
     "tags": [
-      "producție TV",
-      "organizare producție"
+      "Producție TV",
+      "Logistică producție"
     ],
-    "matchPercentage": 75,
-    "reason": "Asistent producție TV cu suport operațional și coordonare logistică în producția media."
+    "matchPercentage": 80,
+    "reason": "Asistent producție TV cu suport operațional și coordonare logistică pentru emisiuni, direct pe competențele de producție media."
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
@@ -83,11 +83,11 @@
     "date": "2026-10-17T12:15:33.890Z",
     "status": "scraped",
     "tags": [
-      "producție video",
-      "conținut media"
+      "Producție video",
+      "Conținut digital"
     ],
-    "matchPercentage": 68,
-    "reason": "Rol entry-level care presupune realizarea de material foto-video pentru produse și campanii, folosind direct competențe audiovizuale."
+    "matchPercentage": 65,
+    "reason": "Creează materiale foto-video pentru produse și campanii, activitate parțial aliniată producției audiovisuale, deși rolul include și marketing."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services",
@@ -98,13 +98,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
+    "date": "2026-10-30T12:33:14.291Z",
     "status": "scraped",
     "tags": [
-      "media digitală",
-      "arte interactive"
+      "arte interactive",
+      "media digitală"
     ],
-    "matchPercentage": 68,
-    "reason": "Rol de UI/UX pentru servicii digitale, potrivit parțial cu proiectarea de arte interactive și media digitală, la nivel de working student."
+    "matchPercentage": 65,
+    "reason": "Working student în design UI/UX pentru servicii digitale, care valorifică parțial competențele de arte interactive și media digitală."
+  },
+  {
+    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
+    "title": "Producător Știri TV",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:45.536Z",
+    "status": "scraped",
+    "tags": [
+      "Producție TV",
+      "Media digitală"
+    ],
+    "matchPercentage": 63,
+    "reason": "Producător de știri TV, rol de producție media relevant, deși anunțul oferă puține detalii despre sarcini și nivel."
   }
 ]
