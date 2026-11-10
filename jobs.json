@@ -11,29 +11,11 @@
     "date": "2026-10-17T12:21:51.964Z",
     "status": "scraped",
     "tags": [
-      "Regie film",
-      "Producție audiovisuală"
+      "regie film",
+      "producție multimedia"
     ],
-    "matchPercentage": 88,
-    "reason": "Producție audiovideo și regie TV cu coordonare de platou, filmare și montaj, direct pe competențele de regie și producție media."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
-    "title": "Video Editor Creativ (Short &amp; Long Form)",
-    "company": "VICTOR BEBIEN IMPEX SRL",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:10.752Z",
-    "status": "scraped",
-    "tags": [
-      "Montaj video",
-      "Postproducție"
-    ],
-    "matchPercentage": 85,
-    "reason": "Editează conținut video short și long form, folosind direct competențele de montaj și postproducție audiovisuală."
+    "matchPercentage": 90,
+    "reason": "Caută exact studii de regie/film/multimedia și implică regie de platou, coordonare cameră, sunet și montaj, cu portofoliu de intrare."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
@@ -47,11 +29,29 @@
     "date": "2026-10-17T12:14:31.586Z",
     "status": "scraped",
     "tags": [
-      "Management cultural",
-      "Producție teatrală"
+      "regie teatru",
+      "organizare evenimente"
     ],
-    "matchPercentage": 80,
-    "reason": "Coordonează producția unui spectacol, folosind direct competențele de management cultural și producție, iar nivelul de experiență cerut este sub 3 ani."
+    "matchPercentage": 85,
+    "reason": "Producător delegat de teatru cu sub 3 ani experiență, folosind direct coordonarea producției de spectacole."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editor-creativ-short-long-form",
+    "title": "Video Editor Creativ (Short &amp; Long Form)",
+    "company": "VICTOR BEBIEN IMPEX SRL",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:10.752Z",
+    "status": "scraped",
+    "tags": [
+      "montaj video",
+      "postproducție"
+    ],
+    "matchPercentage": 85,
+    "reason": "Video editor creativ short/long form, potrivire directă pe montaj și postproducție audiovisuală la nivel junior/mid."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-productie-tv",
@@ -65,11 +65,29 @@
     "date": "2026-10-17T12:14:02.574Z",
     "status": "scraped",
     "tags": [
-      "Producție TV",
-      "Logistică producție"
+      "producție multimedia",
+      "lucru în echipă"
     ],
     "matchPercentage": 80,
-    "reason": "Asistent producție TV cu suport operațional și coordonare logistică pentru emisiuni, direct pe competențele de producție media."
+    "reason": "Rol de suport operațional în producția TV, nivel de intrare, folosind coordonarea logistică de producție și colaborarea cu regizori."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3208681",
+    "title": "OPERATOR PRODUCTIE RTV",
+    "company": "SIAN IMAGE MEDIA SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:31.386Z",
+    "status": "scraped",
+    "tags": [
+      "producție audiovisuală",
+      "regie TV"
+    ],
+    "matchPercentage": 78,
+    "reason": "Operator producție RTV, rol entry-level direct în producția audiovisuală și televiziune."
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
@@ -83,29 +101,11 @@
     "date": "2026-10-17T12:15:33.890Z",
     "status": "scraped",
     "tags": [
-      "Producție video",
-      "Conținut digital"
+      "producție video",
+      "foto-video"
     ],
-    "matchPercentage": 65,
-    "reason": "Creează materiale foto-video pentru produse și campanii, activitate parțial aliniată producției audiovisuale, deși rolul include și marketing."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157985180-working-student-uiux-design-for-connected-services",
-    "title": "Working Student UI/UX Design for Connected Services",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-30T12:33:14.291Z",
-    "status": "scraped",
-    "tags": [
-      "arte interactive",
-      "media digitală"
-    ],
-    "matchPercentage": 65,
-    "reason": "Working student în design UI/UX pentru servicii digitale, care valorifică parțial competențele de arte interactive și media digitală."
+    "matchPercentage": 70,
+    "reason": "Creează material foto-video pentru produse și campanii, folosind direct competențe de producție media, la nivel entry/junior."
   },
   {
     "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
@@ -119,10 +119,28 @@
     "date": "2026-10-17T12:08:45.536Z",
     "status": "scraped",
     "tags": [
-      "Producție TV",
-      "Media digitală"
+      "regie TV",
+      "producție multimedia"
     ],
-    "matchPercentage": 63,
-    "reason": "Producător de știri TV, rol de producție media relevant, deși anunțul oferă puține detalii despre sarcini și nivel."
+    "matchPercentage": 65,
+    "reason": "Domeniu TV înrudit cu producția audiovizuală, dar fără detalii despre sarcini sau nivelul cerut."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:20.065Z",
+    "status": "scraped",
+    "tags": [
+      "editare video",
+      "producție multimedia"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de content și social media cu editare video scurtă, potrivire parțială cu media digitală la nivel entry-level."
   }
 ]
