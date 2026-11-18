@@ -1,21 +1,75 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374858",
-    "title": "ACTOR",
-    "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
+    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
+    "company": "TEATRUL MUNICIPAL MATEI VISNIEC SUCEAVA",
     "location": [
-      "MUNICIPIUL TARGU JIU",
+      "MUNICIPIUL SUCEAVA",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
     "tags": [
-      "joc actoric",
-      "practici scenă"
+      "producție culturală",
+      "arte spectacolului"
     ],
     "matchPercentage": 90,
-    "reason": "Post de actor la teatru cu experiență sub 3 ani, folosind direct jocul actoric și practicile de scenă."
+    "reason": "Coordonarea producției de spectacole folosește direct competențe de organizare culturală și practici de scenă, la un nivel de experiență potrivit."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
+    "title": "Content Creator și Video Editor",
+    "company": "DEW IT PRODUCTION S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:40:06Z",
+    "status": "tested",
+    "tags": [
+      "montaj video",
+      "filmare"
+    ],
+    "matchPercentage": 88,
+    "reason": "Content creator și video editor folosește direct filmarea, montajul și editarea video pentru social media."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/Gameloft/744000156541495",
+    "title": "Video Editor și Motion Designer",
+    "company": "GAMELOFT ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:15:23Z",
+    "status": "tested",
+    "tags": [
+      "editare video",
+      "producție multimedia"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rolul de video editor și motion designer folosește direct competențe de editare video și producție de conținut multimedia."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
+    "title": "Creator continut foto - video și Asistent marketing.",
+    "company": "PESTCONTROL EXPERT SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:26:16Z",
+    "status": "tested",
+    "tags": [
+      "editare video",
+      "producție multimedia"
+    ],
+    "matchPercentage": 75,
+    "reason": "Crearea de conținut foto-video utilizează direct competențe de editare și producție multimedia, într-un context de marketing."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -29,119 +83,11 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "Sunet",
-      "Practici scenă"
+      "sunet",
+      "arte spectacolului"
     ],
-    "matchPercentage": 88,
-    "reason": "Maestrul de sunet dintr-un teatru folosește direct sunetul și practicile de scenă, iar postul cere 0 ani experiență."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
-    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
-    "company": "TEATRUL MUNICIPAL MATEI VISNIEC SUCEAVA",
-    "location": [
-      "MUNICIPIUL SUCEAVA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "Regie teatru",
-      "Producție culturală"
-    ],
-    "matchPercentage": 85,
-    "reason": "Coordonarea producției unui spectacol de teatru folosește direct regia de teatru și practicile de scenă, iar experiența cerută este sub 3 ani."
-  },
-  {
-    "url": "https://multijobs.ro/job/anunt-angajare-referent-productie-video/3096",
-    "title": "Anunt angajare referent productie video",
-    "company": "REGIA NATIONALA A PADURILOR ROMSILVA RA",
-    "location": [
-      "Suceava",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:27:12Z",
-    "status": "tested",
-    "tags": [
-      "Producție multimedia",
-      "Regie film"
-    ],
-    "matchPercentage": 85,
-    "reason": "Postul de referent producție video e entry-level și folosește direct producția multimedia și regia de film."
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Marketing-Digital-Social-Media--F-M-_JOBREQ_50284408",
-    "title": "Internship Marketing Digital Social Media (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:03:33Z",
-    "status": "tested",
-    "tags": [
-      "editare video",
-      "producție multimedia"
-    ],
-    "matchPercentage": 85,
-    "reason": "Internship în marketing digital cu creare de vizualuri și clipuri scurte în Canva, CapCut și DaVinci, folosind direct editarea video."
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Marketing-Digital-Social-Media--F-M-_JOBREQ_50284414",
-    "title": "Internship Marketing Digital Social Media (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:03:33Z",
-    "status": "tested",
-    "tags": [
-      "editare video",
-      "conținut media"
-    ],
-    "matchPercentage": 82,
-    "reason": "Internship în media digitală cu editare video (DaVinci, CapCut) și creare de conținut, la nivel de începutător."
-  },
-  {
-    "url": "https://multijobs.ro/job/junior-content-creator/2266",
-    "title": "Junior Content Creator",
-    "company": "ADVICE DIGITAL S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:26:30Z",
-    "status": "tested",
-    "tags": [
-      "producție multimedia",
-      "conținut media"
-    ],
-    "matchPercentage": 80,
-    "reason": "Poziție de Junior Content Creator într-o firmă digitală, cu sarcini care folosesc direct producția multimedia și crearea de conținut pentru media."
-  },
-  {
-    "url": "https://multijobs.ro/job/operator-foto-editare-si-prelucrare-foto/2063",
-    "title": "Operator Foto (editare și prelucrare foto)",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:46:34Z",
-    "status": "tested",
-    "tags": [
-      "Artă vizuală",
-      "Editare digitală"
-    ],
-    "matchPercentage": 70,
-    "reason": "Editarea și prelucrarea foto valorifică parțial estetica imaginii și editarea digitală, fără cerințe de senioritate."
+    "matchPercentage": 72,
+    "reason": "Maestru de sunet în teatru folosește competențe de sunet și practică scenică, cu nivel entry fără experiență."
   },
   {
     "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
@@ -155,46 +101,9 @@
     "date": "2026-11-17T09:27:30Z",
     "status": "tested",
     "tags": [
-      "Regie TV",
-      "Producție media"
+      "producție multimedia"
     ],
-    "matchPercentage": 65,
-    "reason": "Producătorul de știri TV folosește regia de film și televiziune și producția de conținut media, fără cerințe de experiență îndelungată."
-  },
-  {
-    "url": "https://multijobs.ro/job/creator-de-continut-agricultura-social-media/6804",
-    "title": "Creator de Continut – Agricultura și Social Media",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:03:59Z",
-    "status": "tested",
-    "tags": [
-      "producție multimedia",
-      "editare video"
-    ],
-    "matchPercentage": 65,
-    "reason": "Creator de conținut pentru social media, nivel entry-level, cu producție multimedia deși nișa este agricolă."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437159",
-    "title": "COSTUMIER",
-    "company": "CALIBER FILM SRL",
-    "location": [
-      "MUNICIPIUL ALEXANDRIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "Practici scenă",
-      "Producție multimedia"
-    ],
-    "matchPercentage": 60,
-    "reason": "Costumier la o companie de film este un rol entry-level în producția audiovizuală, cu legătură parțială cu practicile de scenă."
+    "matchPercentage": 70,
+    "reason": "Producția de știri TV implică coordonare și realizare de conținut audiovizual, relevantă parțial pentru competențele media."
   }
 ]
