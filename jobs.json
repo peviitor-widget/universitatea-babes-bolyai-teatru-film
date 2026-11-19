@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420951",
-    "title": "PRODUCATOR DELEGAT PENTRU TEATRU",
-    "company": "TEATRUL MUNICIPAL MATEI VISNIEC SUCEAVA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374858",
+    "title": "ACTOR",
+    "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
     "location": [
-      "MUNICIPIUL SUCEAVA",
+      "MUNICIPIUL TARGU JIU",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
     "tags": [
-      "producție culturală",
-      "arte spectacolului"
+      "Joc actoric",
+      "Construcția personajului"
     ],
-    "matchPercentage": 90,
-    "reason": "Coordonarea producției de spectacole folosește direct competențe de organizare culturală și practici de scenă, la un nivel de experiență potrivit."
+    "matchPercentage": 95,
+    "reason": "Rol de actor la teatru, studii superioare și sub 3 ani experiență, potrivire directă."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
@@ -29,47 +29,11 @@
     "date": "2026-11-17T13:40:06Z",
     "status": "tested",
     "tags": [
-      "montaj video",
-      "filmare"
+      "editare video",
+      "operator cameră"
     ],
     "matchPercentage": 88,
-    "reason": "Content creator și video editor folosește direct filmarea, montajul și editarea video pentru social media."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/Gameloft/744000156541495",
-    "title": "Video Editor și Motion Designer",
-    "company": "GAMELOFT ROMANIA SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:15:23Z",
-    "status": "tested",
-    "tags": [
-      "editare video",
-      "producție multimedia"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rolul de video editor și motion designer folosește direct competențe de editare video și producție de conținut multimedia."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video și Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "editare video",
-      "producție multimedia"
-    ],
-    "matchPercentage": 75,
-    "reason": "Crearea de conținut foto-video utilizează direct competențe de editare și producție multimedia, într-un context de marketing."
+    "reason": "Content creator și video editor cu filmare, montaj în CapCut/DaVinci și editare foto, nivel entry/junior."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -84,26 +48,9 @@
     "status": "tested",
     "tags": [
       "sunet",
-      "arte spectacolului"
+      "practici scenă"
     ],
-    "matchPercentage": 72,
-    "reason": "Maestru de sunet în teatru folosește competențe de sunet și practică scenică, cu nivel entry fără experiență."
-  },
-  {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:27:30Z",
-    "status": "tested",
-    "tags": [
-      "producție multimedia"
-    ],
-    "matchPercentage": 70,
-    "reason": "Producția de știri TV implică coordonare și realizare de conținut audiovizual, relevantă parțial pentru competențele media."
+    "matchPercentage": 87,
+    "reason": "Maestru de sunet în teatru dramatic, post entry-level care folosește direct sunetul și practicile de scenă."
   }
 ]
