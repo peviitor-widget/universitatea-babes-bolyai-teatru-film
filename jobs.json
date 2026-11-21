@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/Gameloft/744000156541495",
-    "title": "Video Editor și Motion Designer",
-    "company": "GAMELOFT ROMANIA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374858",
+    "title": "ACTOR",
+    "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
     "location": [
-      "Bucuresti",
+      "MUNICIPIUL TARGU JIU",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:15:23Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "editare video",
-      "montaj"
+      "Joc actoric",
+      "Personaj scenic"
     ],
-    "matchPercentage": 92,
-    "reason": "Editor video și motion designer cu sarcini de montaj, compunere de scenă și cameră, la nivel entry/junior."
+    "matchPercentage": 95,
+    "reason": "Post de actor la teatru cu studii superioare și sub 3 ani experiență, exact domeniul și nivelul căutat."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
@@ -29,81 +29,46 @@
     "date": "2026-11-17T13:40:06Z",
     "status": "tested",
     "tags": [
-      "Editare video",
-      "Imagine film"
+      "montaj video",
+      "filmare"
     ],
-    "matchPercentage": 92,
-    "reason": "Filmare și montaj video pentru social media cu DaVinci Resolve/CapCut, plus planificare de conținut, competențe directe de operator de cameră și editor la nivel junior."
+    "matchPercentage": 90,
+    "reason": "Folosește direct filmarea, montajul în CapCut/DaVinci Resolve și editarea foto pentru conținut media, la nivel entry-level fără cerințe senior."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
-    "title": "MAESTRU DE SUNET",
-    "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
-    "location": [
-      "MUNICIPIUL TARGU JIU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "Sunet scenă",
-      "Practici scenă"
-    ],
-    "matchPercentage": 85,
-    "reason": "Maestru de sunet la Teatrul Dramatic Elvira Godeanu, fără experiență anterioară, folosește direct sunetul de scenă și practicile spectacolului."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video și Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273636/Raiffeisen-Bank/Social-Media-Manager-Junior-Earned-Media-Area",
+    "title": "Social Media Manager Junior Earned Media Area",
+    "company": "RAIFFEISEN BANK SA BUCURESTI SUCURSALA VRANCEA",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:26:16Z",
+    "date": "2026-11-17T14:56:42Z",
     "status": "tested",
     "tags": [
-      "conținut media",
-      "imagine"
+      "Conținut media",
+      "Media digitală"
     ],
-    "matchPercentage": 82,
-    "reason": "Creează materiale foto-video pentru campanii online, folosind direct competențe de imagine și editare, la nivel de asistent."
+    "matchPercentage": 65,
+    "reason": "Poziție junior de social media care folosește parțial competențe de producție de conținut pentru media digitală."
   },
   {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
+    "url": "https://multijobs.ro/job/creator-de-continut-agricultura-social-media/6804",
+    "title": "Creator de Continut – Agricultura și Social Media",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Bucuresti",
+      "Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:27:30Z",
+    "date": "2026-11-17T12:03:59Z",
     "status": "tested",
     "tags": [
-      "regie TV",
-      "producție media"
+      "Producție multimedia",
+      "Editare video"
     ],
-    "matchPercentage": 82,
-    "reason": "Producător de știri TV, cu sarcini de regie și producție media și fără cerințe de nivel senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437159",
-    "title": "COSTUMIER",
-    "company": "CALIBER FILM SRL",
-    "location": [
-      "MUNICIPIUL ALEXANDRIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "practici de scenă"
-    ],
-    "matchPercentage": 64,
-    "reason": "Costumier la o companie de film, fără experiență, folosește parțial practicile de scenă."
+    "matchPercentage": 65,
+    "reason": "Rolul de creator de conținut pentru social media valorifică parțial competențe de producție multimedia și editare, deși subiectul este agricol."
   }
 ]
