@@ -11,11 +11,11 @@
     "date": "2026-11-17T15:15:23Z",
     "status": "tested",
     "tags": [
-      "editare video",
-      "cameră"
+      "Editare video",
+      "Imagine film"
     ],
     "matchPercentage": 90,
-    "reason": "Editare video, compoziție de scenă, lumină și cameră pentru conținut digital, aliniate direct la montaj și imagine."
+    "reason": "Montaj, compoziție de scenă, lumină și cameră pentru conținut video, nivel entry/mid fără cerințe de modelare 3D."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
@@ -30,28 +30,10 @@
     "status": "tested",
     "tags": [
       "editare video",
-      "operator cameră"
+      "imagine"
     ],
-    "matchPercentage": 88,
-    "reason": "Filmare și montaj de conținut video în CapCut/DaVinci Resolve, pe bază de portofoliu, folosesc direct competențele de operator de cameră și editare video la nivel entry-level."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video și Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "producție multimedia",
-      "editare video"
-    ],
-    "matchPercentage": 85,
-    "reason": "Realizare de materiale foto-video și conținut media digital, la nivel de intrare, cu folosire directă a competențelor de imagine și editare."
+    "matchPercentage": 90,
+    "reason": "Filmare cu camera/telefonul, editare în CapCut/DaVinci Resolve și planificare de conținut, rol entry-level cu portofoliu."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -66,10 +48,10 @@
     "status": "tested",
     "tags": [
       "sunet",
-      "practici scenă"
+      "scenă"
     ],
-    "matchPercentage": 80,
-    "reason": "Post de maestru de sunet într-un teatru dramatic, cu zero ani experiență, folosește direct competențele de sunet și practici de scenă."
+    "matchPercentage": 90,
+    "reason": "Maestru de sunet într-un teatru dramatic, cu 0 ani experiență, valorificând direct sunetul și practicile de scenă."
   },
   {
     "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
@@ -83,81 +65,28 @@
     "date": "2026-11-17T09:27:30Z",
     "status": "tested",
     "tags": [
-      "regie TV",
-      "producție multimedia"
-    ],
-    "matchPercentage": 78,
-    "reason": "Producător de știri TV, sarcini care folosesc regia de televiziune și producția audiovisuală, fără cerințe senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437159",
-    "title": "COSTUMIER",
-    "company": "CALIBER FILM SRL",
-    "location": [
-      "MUNICIPIUL ALEXANDRIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "practici scenă",
-      "colaborare"
+      "Regie TV",
+      "Producție multimedia"
     ],
     "matchPercentage": 75,
-    "reason": "Costumier la o firmă de film, fără experiență anterioară, în sfera producției cinematografice și a practicilor de scenă."
+    "reason": "Producător de știri TV folosește regia de televiziune și producția multimedia, fără cerințe explicite de senioritate."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273636/Raiffeisen-Bank/Social-Media-Manager-Junior-Earned-Media-Area",
-    "title": "Social Media Manager Junior Earned Media Area",
-    "company": "RAIFFEISEN BANK SA BUCURESTI SUCURSALA VRANCEA",
+    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
+    "title": "Creator continut foto - video și Asistent marketing.",
+    "company": "PESTCONTROL EXPERT SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:56:42Z",
+    "date": "2026-11-17T15:26:16Z",
     "status": "tested",
     "tags": [
-      "conținut media",
-      "media digitală"
+      "Imagine film",
+      "Editare video"
     ],
-    "matchPercentage": 70,
-    "reason": "Poziție junior de social media care folosește competențe de conținut pentru media, deși într-un context bancar."
-  },
-  {
-    "url": "https://multijobs.ro/job/creator-de-continut-agricultura-social-media/6804",
-    "title": "Creator de Continut – Agricultura și Social Media",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:03:59Z",
-    "status": "tested",
-    "tags": [
-      "producție multimedia",
-      "media digitală"
-    ],
-    "matchPercentage": 68,
-    "reason": "Creatorul de conținut pentru social media folosește competențe de producție multimedia și media digitală, la nivel entry-level."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374882",
-    "title": "MÂNUITOR, MONTATOR DECOR",
-    "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
-    "location": [
-      "MUNICIPIUL TARGU JIU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "practici scenă"
-    ],
-    "matchPercentage": 60,
-    "reason": "Montatorul de decor dintr-un teatru folosește competențe de practică scenică, iar nivelul mediu de 3-5 ani rămâne la limita superioară a acceptului."
+    "matchPercentage": 72,
+    "reason": "Crearea de materiale foto-video pentru campanii folosește direct imaginea și editarea video, la nivel de asistent."
   }
 ]
