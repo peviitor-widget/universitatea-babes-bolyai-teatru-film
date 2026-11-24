@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/Gameloft/744000156541495",
-    "title": "Video Editor și Motion Designer",
-    "company": "GAMELOFT ROMANIA SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:15:23Z",
-    "status": "tested",
-    "tags": [
-      "Editare video",
-      "Imagine film"
-    ],
-    "matchPercentage": 90,
-    "reason": "Montaj, compoziție de scenă, lumină și cameră pentru conținut video, nivel entry/mid fără cerințe de modelare 3D."
-  },
-  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
     "title": "Content Creator și Video Editor",
     "company": "DEW IT PRODUCTION S.R.L.",
@@ -29,11 +11,11 @@
     "date": "2026-11-17T13:40:06Z",
     "status": "tested",
     "tags": [
-      "editare video",
-      "imagine"
+      "montaj video",
+      "filmare"
     ],
     "matchPercentage": 90,
-    "reason": "Filmare cu camera/telefonul, editare în CapCut/DaVinci Resolve și planificare de conținut, rol entry-level cu portofoliu."
+    "reason": "Filmare și montaj video pentru social media în CapCut/DaVinci Resolve, cu portofoliu, fără cerințe de senioritate."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -48,45 +30,9 @@
     "status": "tested",
     "tags": [
       "sunet",
-      "scenă"
+      "practici de scenă"
     ],
-    "matchPercentage": 90,
-    "reason": "Maestru de sunet într-un teatru dramatic, cu 0 ani experiență, valorificând direct sunetul și practicile de scenă."
-  },
-  {
-    "url": "https://multijobs.ro/job/producator-stiri-tv/5294",
-    "title": "Producător Știri TV",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:27:30Z",
-    "status": "tested",
-    "tags": [
-      "Regie TV",
-      "Producție multimedia"
-    ],
-    "matchPercentage": 75,
-    "reason": "Producător de știri TV folosește regia de televiziune și producția multimedia, fără cerințe explicite de senioritate."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video și Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "Imagine film",
-      "Editare video"
-    ],
-    "matchPercentage": 72,
-    "reason": "Crearea de materiale foto-video pentru campanii folosește direct imaginea și editarea video, la nivel de asistent."
+    "matchPercentage": 85,
+    "reason": "Post de maestru de sunet într-un teatru, cu 0 ani experiență, folosește direct sunetul de scenă și practicile spectacolului."
   }
 ]
