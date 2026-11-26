@@ -12,10 +12,10 @@
     "status": "tested",
     "tags": [
       "Joc actoric",
-      "Personaj scenic"
+      "Scenă"
     ],
-    "matchPercentage": 95,
-    "reason": "Actor la teatru cu sub 3 ani experiență: domeniu și nivel perfecte."
+    "matchPercentage": 92,
+    "reason": "Rolul de actor cere studii superioare și sub 3 ani de experiență, potrivindu-se direct competențelor de joc scenic."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
@@ -30,10 +30,10 @@
     "status": "tested",
     "tags": [
       "editare video",
-      "operator cameră"
+      "imagine"
     ],
     "matchPercentage": 90,
-    "reason": "Filmare pentru Reels și montaj în CapCut/DaVinci Resolve, cu portofoliu, la nivel entry/junior — potrivire directă cu competențele de editare și imagine."
+    "reason": "Filmare și montaj video pentru social media în CapCut/DaVinci Resolve, nivel practic de junior, fără cerințe senior."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -50,7 +50,7 @@
       "sunet",
       "practici scenă"
     ],
-    "matchPercentage": 85,
-    "reason": "Post de maestru de sunet într-un teatru dramatic, fără experiență profesională cerută — competență directă de sunet și practică de scenă."
+    "matchPercentage": 88,
+    "reason": "Maestru de sunet în teatru dramatic, folosește direct sunetul de scenă și acceptă candidați fără experiență."
   }
 ]
