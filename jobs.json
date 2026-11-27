@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374858",
-    "title": "ACTOR",
-    "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
-    "location": [
-      "MUNICIPIUL TARGU JIU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "Joc actoric",
-      "Scenă"
-    ],
-    "matchPercentage": 92,
-    "reason": "Rolul de actor cere studii superioare și sub 3 ani de experiență, potrivindu-se direct competențelor de joc scenic."
-  },
-  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
     "title": "Content Creator și Video Editor",
     "company": "DEW IT PRODUCTION S.R.L.",
@@ -30,10 +12,28 @@
     "status": "tested",
     "tags": [
       "editare video",
-      "imagine"
+      "producție multimedia"
     ],
     "matchPercentage": 90,
-    "reason": "Filmare și montaj video pentru social media în CapCut/DaVinci Resolve, nivel practic de junior, fără cerințe senior."
+    "reason": "Filmarea de Reels, montajul în CapCut/DaVinci Resolve și editarea foto folosesc direct competențele de imagine și editare, la nivel entry-level cu portofoliu."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3374858",
+    "title": "ACTOR",
+    "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
+    "location": [
+      "MUNICIPIUL TARGU JIU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "joc actoric",
+      "personaj scenic"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol de actor la teatru, cu studii superioare și sub 3 ani experiență, exact nivelul junior."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -50,7 +50,25 @@
       "sunet",
       "practici scenă"
     ],
-    "matchPercentage": 88,
-    "reason": "Maestru de sunet în teatru dramatic, folosește direct sunetul de scenă și acceptă candidați fără experiență."
+    "matchPercentage": 85,
+    "reason": "Maestru de sunet într-un teatru dramatic, fără experiență profesională cerută, folosește direct sunetul de scenă și practicile spectacolului."
+  },
+  {
+    "url": "https://multijobs.ro/job/social-media-specialist/33",
+    "title": "Social Media Specialist",
+    "company": "SOPHIA 2004 SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:47:32Z",
+    "status": "tested",
+    "tags": [
+      "producție multimedia",
+      "media digitală"
+    ],
+    "matchPercentage": 65,
+    "reason": "Specialist social media în media digitală, fără cerințe de senior sau manager, potrivit ca nivel entry/junior."
   }
 ]
