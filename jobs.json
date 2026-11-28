@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
-    "title": "Content Creator și Video Editor",
-    "company": "DEW IT PRODUCTION S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:40:06Z",
-    "status": "tested",
-    "tags": [
-      "editare video",
-      "producție multimedia"
-    ],
-    "matchPercentage": 90,
-    "reason": "Filmarea de Reels, montajul în CapCut/DaVinci Resolve și editarea foto folosesc direct competențele de imagine și editare, la nivel entry-level cu portofoliu."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374858",
     "title": "ACTOR",
     "company": "TEATRUL DRAMATIC ELVIRA GODEANU",
@@ -29,11 +11,65 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "joc actoric",
-      "personaj scenic"
+      "Joc actoric",
+      "Personaj scenic"
+    ],
+    "matchPercentage": 92,
+    "reason": "Postul de actor cere sub 3 ani experiență și folosește direct jocul actoric și construcția personajului scenic."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/content-creator-video-editor/99252948",
+    "title": "Content Creator și Video Editor",
+    "company": "DEW IT PRODUCTION S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:40:06Z",
+    "status": "tested",
+    "tags": [
+      "Montaj video",
+      "Filmare"
     ],
     "matchPercentage": 90,
-    "reason": "Rol de actor la teatru, cu studii superioare și sub 3 ani experiență, exact nivelul junior."
+    "reason": "Filmare, montaj în CapCut/DaVinci și editare foto pentru social media, cu portofoliu, fără nivel senior."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/Gameloft/744000156541495",
+    "title": "Video Editor și Motion Designer",
+    "company": "GAMELOFT ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:15:23Z",
+    "status": "tested",
+    "tags": [
+      "Montaj video",
+      "Imagine"
+    ],
+    "matchPercentage": 88,
+    "reason": "Rolul folosește direct montajul video, compoziția cadrului, lumina și camera, fără cerințe de senioriat."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437159",
+    "title": "COSTUMIER",
+    "company": "CALIBER FILM SRL",
+    "location": [
+      "MUNICIPIUL ALEXANDRIA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "Practici scenă",
+      "Producție multimedia"
+    ],
+    "matchPercentage": 80,
+    "reason": "Postul de costumier la o companie de film, fără experiență, folosește direct practicile de scenă și producția audiovizuală la nivel entry-level."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3374889",
@@ -47,28 +83,10 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "sunet",
-      "practici scenă"
+      "Sunet",
+      "Practici de scenă"
     ],
-    "matchPercentage": 85,
-    "reason": "Maestru de sunet într-un teatru dramatic, fără experiență profesională cerută, folosește direct sunetul de scenă și practicile spectacolului."
-  },
-  {
-    "url": "https://multijobs.ro/job/social-media-specialist/33",
-    "title": "Social Media Specialist",
-    "company": "SOPHIA 2004 SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:47:32Z",
-    "status": "tested",
-    "tags": [
-      "producție multimedia",
-      "media digitală"
-    ],
-    "matchPercentage": 65,
-    "reason": "Specialist social media în media digitală, fără cerințe de senior sau manager, potrivit ca nivel entry/junior."
+    "matchPercentage": 80,
+    "reason": "Maestru de sunet în teatru cu zero ani experiență folosește direct sunetul și practicile de scenă."
   }
 ]
